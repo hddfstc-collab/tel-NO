@@ -1,15 +1,3999 @@
 [
   {
+    "number": "6000",
+    "fullNumber": "2142-6000",
+    "floor": "B4F",
+    "user": "수입 점창고",
+    "department": "SCM(무역)",
+    "status": "사용중"
+  },
+  {
+    "number": "6001",
+    "fullNumber": "2142-6001",
+    "floor": "B4F",
+    "user": "수입 점창고",
+    "department": "SCM(무역)",
+    "status": "사용중"
+  },
+  {
+    "number": "6002",
+    "fullNumber": "2142-6002",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6003",
+    "fullNumber": "2142-6003",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6004",
+    "fullNumber": "2142-6004",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6005",
+    "fullNumber": "2142-6005",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6006",
+    "fullNumber": "2142-6006",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6007",
+    "fullNumber": "2142-6007",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6008",
+    "fullNumber": "2142-6008",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6009",
+    "fullNumber": "2142-6009",
+    "floor": "8F",
+    "user": "팩스",
+    "department": "SCM(무역)",
+    "status": "사용중"
+  },
+  {
+    "number": "6010",
+    "fullNumber": "2142-6010",
+    "floor": "B2F",
+    "user": "도급사 사무실",
+    "department": "SCM(무역)",
+    "status": "사용중"
+  },
+  {
     "number": "6011",
     "fullNumber": "2142-6011",
-    "floor": "8F",
-    "user": "관리 담당",
-    "department": "영업2파트",
+    "floor": "B2F",
+    "user": "김광훈 대리",
+    "department": "2파트(총무)",
     "status": "사용중"
   },
   {
     "number": "6012",
     "fullNumber": "2142-6012",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6013",
+    "fullNumber": "2142-6013",
+    "floor": "B2F",
+    "user": "팩스 FAX",
+    "department": "SCM(무역)",
+    "status": "사용중"
+  },
+  {
+    "number": "6014",
+    "fullNumber": "2142-6014",
+    "floor": "B2F",
+    "user": "항공/보세업무",
+    "department": "SCM(무역)",
+    "status": "사용중"
+  },
+  {
+    "number": "6015",
+    "fullNumber": "2142-6015",
+    "floor": "B2F",
+    "user": "항공/보세업무",
+    "department": "SCM(무역)",
+    "status": "사용중"
+  },
+  {
+    "number": "6016",
+    "fullNumber": "2142-6016",
+    "floor": "B2F",
+    "user": "도급사 사무실",
+    "department": "SCM(무역)",
+    "status": "사용중"
+  },
+  {
+    "number": "6017",
+    "fullNumber": "2142-6017",
+    "floor": "B2F",
+    "user": "판매취소, 판취재고",
+    "department": "SCM(무역)",
+    "status": "사용중"
+  },
+  {
+    "number": "6018",
+    "fullNumber": "2142-6018",
+    "floor": "B2F",
+    "user": "보세실 FAX",
+    "department": "SCM(무역)",
+    "status": "사용중"
+  },
+  {
+    "number": "6019",
+    "fullNumber": "2142-6019",
+    "floor": "B2F",
+    "user": "국산 점창고",
+    "department": "SCM(무역)",
+    "status": "사용중"
+  },
+  {
+    "number": "6020",
+    "fullNumber": "2142-6020",
+    "floor": "B2F",
+    "user": "국산 점창고",
+    "department": "SCM(무역)",
+    "status": "사용중"
+  },
+  {
+    "number": "6021",
+    "fullNumber": "2142-6021",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6022",
+    "fullNumber": "2142-6022",
+    "floor": "B2F",
+    "user": "통관",
+    "department": "SCM(무역)",
+    "status": "사용중"
+  },
+  {
+    "number": "6023",
+    "fullNumber": "2142-6023",
+    "floor": "B2",
+    "user": "전산실",
+    "department": "도급",
+    "status": "사용중"
+  },
+  {
+    "number": "6024",
+    "fullNumber": "2142-6024",
+    "floor": "B2",
+    "user": "전산실",
+    "department": "도급",
+    "status": "사용중"
+  },
+  {
+    "number": "6025",
+    "fullNumber": "2142-6025",
+    "floor": "B2",
+    "user": "전산실",
+    "department": "도급",
+    "status": "사용중"
+  },
+  {
+    "number": "6026",
+    "fullNumber": "2142-6026",
+    "floor": "-",
+    "user": "소모품창고",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6027",
+    "fullNumber": "2142-6027",
+    "floor": "8F",
+    "user": "빈자리",
+    "department": "SCM(무역)",
+    "status": "사용중"
+  },
+  {
+    "number": "6028",
+    "fullNumber": "2142-6028",
+    "floor": "8F",
+    "user": "방청일 대리",
+    "department": "SCM(무역)",
+    "status": "사용중"
+  },
+  {
+    "number": "6029",
+    "fullNumber": "2142-6029",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6030",
+    "fullNumber": "2142-6030",
+    "floor": "8F",
+    "user": "촬영실",
+    "department": "도급",
+    "status": "사용중"
+  },
+  {
+    "number": "6031",
+    "fullNumber": "2142-6031",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6032",
+    "fullNumber": "2142-6032",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6033",
+    "fullNumber": "2142-6033",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6034",
+    "fullNumber": "2142-6034",
+    "floor": "8F",
+    "user": "구준모 주임",
+    "department": "1파트(영업)",
+    "status": "사용중"
+  },
+  {
+    "number": "6035",
+    "fullNumber": "2142-6035",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6036",
+    "fullNumber": "2142-6036",
+    "floor": "8F",
+    "user": "노홍균 차장",
+    "department": "무역센터 점장",
+    "status": "사용중"
+  },
+  {
+    "number": "6037",
+    "fullNumber": "2142-6037",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6038",
+    "fullNumber": "2142-6038",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6039",
+    "fullNumber": "2142-6039",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6040",
+    "fullNumber": "2142-6040",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6041",
+    "fullNumber": "2142-6041",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6042",
+    "fullNumber": "2142-6042",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6043",
+    "fullNumber": "2142-6043",
+    "floor": "8F",
+    "user": "김지은 과장",
+    "department": "2파트(영업)",
+    "status": "사용중"
+  },
+  {
+    "number": "6044",
+    "fullNumber": "2142-6044",
+    "floor": "8F",
+    "user": "윤서효 차장",
+    "department": "2파트(파트장)",
+    "status": "사용중"
+  },
+  {
+    "number": "6045",
+    "fullNumber": "2142-6045",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6046",
+    "fullNumber": "2142-6046",
+    "floor": "8F",
+    "user": "진민지 과장",
+    "department": "2파트(영업)",
+    "status": "사용중"
+  },
+  {
+    "number": "6047",
+    "fullNumber": "2142-6047",
+    "floor": "8F",
+    "user": "헬스키퍼",
+    "department": "여자휴게실",
+    "status": "사용중"
+  },
+  {
+    "number": "6048",
+    "fullNumber": "2142-6048",
+    "floor": "8F",
+    "user": "정민기 주임",
+    "department": "1파트(영업)",
+    "status": "사용중"
+  },
+  {
+    "number": "6049",
+    "fullNumber": "2142-6049",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6050",
+    "fullNumber": "2142-6050",
+    "floor": "8F",
+    "user": "박채린 주임",
+    "department": "2파트(영업)",
+    "status": "사용중"
+  },
+  {
+    "number": "6051",
+    "fullNumber": "2142-6051",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6052",
+    "fullNumber": "2142-6052",
+    "floor": "8F",
+    "user": "인턴",
+    "department": "1파트(영업)",
+    "status": "사용중"
+  },
+  {
+    "number": "6053",
+    "fullNumber": "2142-6053",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6054",
+    "fullNumber": "2142-6054",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6055",
+    "fullNumber": "2142-6055",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6056",
+    "fullNumber": "2142-6056",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6057",
+    "fullNumber": "2142-6057",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6058",
+    "fullNumber": "2142-6058",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6059",
+    "fullNumber": "2142-6059",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6060",
+    "fullNumber": "2142-6060",
+    "floor": "8F",
+    "user": "성지인 대리",
+    "department": "1파트(영업)",
+    "status": "사용중"
+  },
+  {
+    "number": "6061",
+    "fullNumber": "2142-6061",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6062",
+    "fullNumber": "2142-6062",
+    "floor": "8F",
+    "user": "김영현 대리",
+    "department": "1파트(영업)",
+    "status": "사용중"
+  },
+  {
+    "number": "6063",
+    "fullNumber": "2142-6063",
+    "floor": "8F",
+    "user": "서가윤 대리",
+    "department": "2파트(영업)",
+    "status": "사용중"
+  },
+  {
+    "number": "6064",
+    "fullNumber": "2142-6064",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6065",
+    "fullNumber": "2142-6065",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6066",
+    "fullNumber": "2142-6066",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6067",
+    "fullNumber": "2142-6067",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6068",
+    "fullNumber": "2142-6068",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6069",
+    "fullNumber": "2142-6069",
+    "floor": "8F",
+    "user": "팩스",
+    "department": "8층 사무실",
+    "status": "사용중"
+  },
+  {
+    "number": "6070",
+    "fullNumber": "2142-6070",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6071",
+    "fullNumber": "2142-6071",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6072",
+    "fullNumber": "2142-6072",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6073",
+    "fullNumber": "2142-6073",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6074",
+    "fullNumber": "2142-6074",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6075",
+    "fullNumber": "2142-6075",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6076",
+    "fullNumber": "2142-6076",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6077",
+    "fullNumber": "2142-6077",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6078",
+    "fullNumber": "2142-6078",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6079",
+    "fullNumber": "2142-6079",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6080",
+    "fullNumber": "2142-6080",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6081",
+    "fullNumber": "2142-6081",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6082",
+    "fullNumber": "2142-6082",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6083",
+    "fullNumber": "2142-6083",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6084",
+    "fullNumber": "2142-6084",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6085",
+    "fullNumber": "2142-6085",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6086",
+    "fullNumber": "2142-6086",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6087",
+    "fullNumber": "2142-6087",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6088",
+    "fullNumber": "2142-6088",
+    "floor": "8F",
+    "user": "위블로",
+    "department": "8층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6089",
+    "fullNumber": "2142-6089",
+    "floor": "8F",
+    "user": "몽클레르",
+    "department": "8층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6090",
+    "fullNumber": "2142-6090",
+    "floor": "8F",
+    "user": "구찌 콜센터 (고객 문의)",
+    "department": "8층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6091",
+    "fullNumber": "2142-6091",
+    "floor": "8F",
+    "user": "버버리",
+    "department": "8층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6092",
+    "fullNumber": "2142-6092",
+    "floor": "8F",
+    "user": "페라가모",
+    "department": "8층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6093",
+    "fullNumber": "2142-6093",
+    "floor": "8F",
+    "user": "알렉산더 맥퀸",
+    "department": "8층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6094",
+    "fullNumber": "2142-6094",
+    "floor": "8F",
+    "user": "EVENT SHOP",
+    "department": "8층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6095",
+    "fullNumber": "2142-6095",
+    "floor": "8F",
+    "user": "모스키노",
+    "department": "8층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6096",
+    "fullNumber": "2142-6096",
+    "floor": "8F",
+    "user": "롱샴",
+    "department": "8층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6097",
+    "fullNumber": "2142-6097",
+    "floor": "8F",
+    "user": "보테가베네타",
+    "department": "8층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6098",
+    "fullNumber": "2142-6098",
+    "floor": "8F",
+    "user": "셀린느",
+    "department": "8층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6099",
+    "fullNumber": "2142-6099",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6100",
+    "fullNumber": "2142-6100",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6101",
+    "fullNumber": "2142-6101",
+    "floor": "8F",
+    "user": "막스마라",
+    "department": "8층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6102",
+    "fullNumber": "2142-6102",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6103",
+    "fullNumber": "2142-6103",
+    "floor": "8F",
+    "user": "코치",
+    "department": "8층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6104",
+    "fullNumber": "2142-6104",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6105",
+    "fullNumber": "2142-6105",
+    "floor": "8F",
+    "user": "투미",
+    "department": "8층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6106",
+    "fullNumber": "2142-6106",
+    "floor": "8F",
+    "user": "ORIS, GAGA MILANO, FREDERIQUE CONSTANT",
+    "department": "8층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6107",
+    "fullNumber": "2142-6107",
+    "floor": "8F",
+    "user": "피아제",
+    "department": "8층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6108",
+    "fullNumber": "2142-6108",
+    "floor": "8F",
+    "user": "올세인츠",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6109",
+    "fullNumber": "2142-6109",
+    "floor": "8F",
+    "user": "프라다",
+    "department": "8층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6110",
+    "fullNumber": "2142-6110",
+    "floor": "8F",
+    "user": "펜디",
+    "department": "8층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6111",
+    "fullNumber": "2142-6111",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6112",
+    "fullNumber": "2142-6112",
+    "floor": "8F",
+    "user": "면세보안(안전실)",
+    "department": "도급",
+    "status": "사용중"
+  },
+  {
+    "number": "6113",
+    "fullNumber": "2142-6113",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6114",
+    "fullNumber": "2142-6114",
+    "floor": "8F",
+    "user": "골든구스",
+    "department": "8층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6115",
+    "fullNumber": "2142-6115",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6116",
+    "fullNumber": "2142-6116",
+    "floor": "8F",
+    "user": "키린",
+    "department": "8층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6117",
+    "fullNumber": "2142-6117",
+    "floor": "8F",
+    "user": "몽블랑",
+    "department": "8층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6118",
+    "fullNumber": "2142-6118",
+    "floor": "8F",
+    "user": "티쏘",
+    "department": "8층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6119",
+    "fullNumber": "2142-6119",
+    "floor": "8F",
+    "user": "해밀턴, 라도",
+    "department": "8층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6120",
+    "fullNumber": "2142-6120",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6121",
+    "fullNumber": "2142-6121",
+    "floor": "8F",
+    "user": "미도",
+    "department": "8층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6122",
+    "fullNumber": "2142-6122",
+    "floor": "8F",
+    "user": "생로랑",
+    "department": "8층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6123",
+    "fullNumber": "2142-6123",
+    "floor": "8F",
+    "user": "그랜드 세이코",
+    "department": "8층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6124",
+    "fullNumber": "2142-6124",
+    "floor": "8F",
+    "user": "오메가",
+    "department": "8층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6125",
+    "fullNumber": "2142-6125",
+    "floor": "8F",
+    "user": "론진",
+    "department": "8층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6126",
+    "fullNumber": "2142-6126",
+    "floor": "8F",
+    "user": "블랑팡",
+    "department": "8층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6127",
+    "fullNumber": "2142-6127",
+    "floor": "8F",
+    "user": "로에베",
+    "department": "8층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6128",
+    "fullNumber": "2142-6128",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6129",
+    "fullNumber": "2142-6129",
+    "floor": "8F",
+    "user": "CHOPARD",
+    "department": "8층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6130",
+    "fullNumber": "2142-6130",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6131",
+    "fullNumber": "2142-6131",
+    "floor": "8F",
+    "user": "주대복",
+    "department": "8층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6132",
+    "fullNumber": "2142-6132",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6133",
+    "fullNumber": "2142-6133",
+    "floor": "8F",
+    "user": "태그호이어, 브라이틀링",
+    "department": "8층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6134",
+    "fullNumber": "2142-6134",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6135",
+    "fullNumber": "2142-6135",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6136",
+    "fullNumber": "2142-6136",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6137",
+    "fullNumber": "2142-6137",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6138",
+    "fullNumber": "2142-6138",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6139",
+    "fullNumber": "2142-6139",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6140",
+    "fullNumber": "2142-6140",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6141",
+    "fullNumber": "2142-6141",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6142",
+    "fullNumber": "2142-6142",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6143",
+    "fullNumber": "2142-6143",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6144",
+    "fullNumber": "2142-6144",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6145",
+    "fullNumber": "2142-6145",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6146",
+    "fullNumber": "2142-6146",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6147",
+    "fullNumber": "2142-6147",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6148",
+    "fullNumber": "2142-6148",
+    "floor": "8F",
+    "user": "발렌시아가",
+    "department": "8층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6149",
+    "fullNumber": "2142-6149",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6150",
+    "fullNumber": "2142-6150",
+    "floor": "8F",
+    "user": "정산실",
+    "department": "재경",
+    "status": "사용중"
+  },
+  {
+    "number": "6151",
+    "fullNumber": "2142-6151",
+    "floor": "8F",
+    "user": "정산실",
+    "department": "재경",
+    "status": "사용중"
+  },
+  {
+    "number": "6152",
+    "fullNumber": "2142-6152",
+    "floor": "8F",
+    "user": "정산실",
+    "department": "재경",
+    "status": "사용중"
+  },
+  {
+    "number": "6153",
+    "fullNumber": "2142-6153",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6154",
+    "fullNumber": "2142-6154",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6155",
+    "fullNumber": "2142-6155",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6156",
+    "fullNumber": "2142-6156",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6157",
+    "fullNumber": "2142-6157",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6158",
+    "fullNumber": "2142-6158",
+    "floor": "8F",
+    "user": "정산실 FAX",
+    "department": "재경",
+    "status": "사용중"
+  },
+  {
+    "number": "6159",
+    "fullNumber": "2142-6159",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6160",
+    "fullNumber": "2142-6160",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6161",
+    "fullNumber": "2142-6161",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6162",
+    "fullNumber": "2142-6162",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6163",
+    "fullNumber": "2142-6163",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6164",
+    "fullNumber": "2142-6164",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6165",
+    "fullNumber": "2142-6165",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6166",
+    "fullNumber": "2142-6166",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6167",
+    "fullNumber": "2142-6167",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6168",
+    "fullNumber": "2142-6168",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6169",
+    "fullNumber": "2142-6169",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6170",
+    "fullNumber": "2142-6170",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6171",
+    "fullNumber": "2142-6171",
+    "floor": "8F",
+    "user": "킬리안",
+    "department": "9층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6172",
+    "fullNumber": "2142-6172",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6173",
+    "fullNumber": "2142-6173",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6174",
+    "fullNumber": "2142-6174",
+    "floor": "8F",
+    "user": "랑콤",
+    "department": "9층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6175",
+    "fullNumber": "2142-6175",
+    "floor": "8F",
+    "user": "키엘",
+    "department": "9층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6176",
+    "fullNumber": "2142-6176",
+    "floor": "8F",
+    "user": "입생로랑",
+    "department": "9층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6177",
+    "fullNumber": "2142-6177",
+    "floor": "8F",
+    "user": "알마니 화장품",
+    "department": "9층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6178",
+    "fullNumber": "2142-6178",
+    "floor": "8F",
+    "user": "슈에무라",
+    "department": "9층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6179",
+    "fullNumber": "2142-6179",
+    "floor": "8F",
+    "user": "라띠쟌 퍼퓨머",
+    "department": "9층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6180",
+    "fullNumber": "2142-6180",
+    "floor": "8F",
+    "user": "헬레나 루빈스타인",
+    "department": "9층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6181",
+    "fullNumber": "2142-6181",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6182",
+    "fullNumber": "2142-6182",
+    "floor": "8F",
+    "user": "라프레리",
+    "department": "9층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6183",
+    "fullNumber": "2142-6183",
+    "floor": "8F",
+    "user": "데코르테",
+    "department": "9층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6184",
+    "fullNumber": "2142-6184",
+    "floor": "8F",
+    "user": "메종 마르지엘라 p",
+    "department": "9층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6185",
+    "fullNumber": "2142-6185",
+    "floor": "8F",
+    "user": "세포랩",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6186",
+    "fullNumber": "2142-6186",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6187",
+    "fullNumber": "2142-6187",
+    "floor": "8F",
+    "user": "에스티로더",
+    "department": "9층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6188",
+    "fullNumber": "2142-6188",
+    "floor": "8F",
+    "user": "라메르",
+    "department": "9층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6189",
+    "fullNumber": "2142-6189",
+    "floor": "8F",
+    "user": "맥",
+    "department": "9층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6190",
+    "fullNumber": "2142-6190",
+    "floor": "8F",
+    "user": "조말론",
+    "department": "9층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6191",
+    "fullNumber": "2142-6191",
+    "floor": "8F",
+    "user": "바비브라운",
+    "department": "9층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6192",
+    "fullNumber": "2142-6192",
+    "floor": "8F",
+    "user": "아베다",
+    "department": "9층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6193",
+    "fullNumber": "2142-6193",
+    "floor": "8F",
+    "user": "크리니크",
+    "department": "9층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6194",
+    "fullNumber": "2142-6194",
+    "floor": "8F",
+    "user": "오리진스",
+    "department": "9층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6195",
+    "fullNumber": "2142-6195",
+    "floor": "8F",
+    "user": "톰포드",
+    "department": "9층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6196",
+    "fullNumber": "2142-6196",
+    "floor": "8F",
+    "user": "프레데릭말",
+    "department": "9층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6197",
+    "fullNumber": "2142-6197",
+    "floor": "8F",
+    "user": "비오템",
+    "department": "9층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6198",
+    "fullNumber": "2142-6198",
+    "floor": "8F",
+    "user": "향수\n(몽딸·만세라·에센셜 퍼퓸·본드 넘버 나인·이센트릭)",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6199",
+    "fullNumber": "2142-6199",
+    "floor": "8F",
+    "user": "르라보",
+    "department": "9층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6200",
+    "fullNumber": "2142-6200",
+    "floor": "8F",
+    "user": "스킨랩 서울",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6201",
+    "fullNumber": "2142-6201",
+    "floor": "8F",
+    "user": "에르메스 뷰티/퍼퓸 (0576)",
+    "department": "9층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6202",
+    "fullNumber": "2142-6202",
+    "floor": "8F",
+    "user": "아토팜",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6203",
+    "fullNumber": "2142-6203",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6204",
+    "fullNumber": "2142-6204",
+    "floor": "8F",
+    "user": "펜할리곤스",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6205",
+    "fullNumber": "2142-6205",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6206",
+    "fullNumber": "2142-6206",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6207",
+    "fullNumber": "2142-6207",
+    "floor": "8F",
+    "user": "가네보/루나솔 (0637)",
+    "department": "9층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6208",
+    "fullNumber": "2142-6208",
+    "floor": "8F",
+    "user": "지방시",
+    "department": "9층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6209",
+    "fullNumber": "2142-6209",
+    "floor": "8F",
+    "user": "클라랑스",
+    "department": "9층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6210",
+    "fullNumber": "2142-6210",
+    "floor": "8F",
+    "user": "겔랑",
+    "department": "9층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6211",
+    "fullNumber": "2142-6211",
+    "floor": "8F",
+    "user": "록시땅",
+    "department": "9층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6212",
+    "fullNumber": "2142-6212",
+    "floor": "8F",
+    "user": "베네피트",
+    "department": "9층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6213",
+    "fullNumber": "2142-6213",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6214",
+    "fullNumber": "2142-6214",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6215",
+    "fullNumber": "2142-6215",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6216",
+    "fullNumber": "2142-6216",
+    "floor": "8F",
+    "user": "시세이도",
+    "department": "9층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6217",
+    "fullNumber": "2142-6217",
+    "floor": "8F",
+    "user": "리퀴드 퍼퓸바",
+    "department": "9층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6218",
+    "fullNumber": "2142-6218",
+    "floor": "8F",
+    "user": "바이레도",
+    "department": "9층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6219",
+    "fullNumber": "2142-6219",
+    "floor": "8F",
+    "user": "후",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6220",
+    "fullNumber": "2142-6220",
+    "floor": "8F",
+    "user": "설화수",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6221",
+    "fullNumber": "2142-6221",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6222",
+    "fullNumber": "2142-6222",
+    "floor": "8F",
+    "user": "라네즈",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6223",
+    "fullNumber": "2142-6223",
+    "floor": "8F",
+    "user": "헤라",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6224",
+    "fullNumber": "2142-6224",
+    "floor": "8F",
+    "user": "프리메라",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6225",
+    "fullNumber": "2142-6225",
+    "floor": "8F",
+    "user": "딥디크",
+    "department": "9층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6226",
+    "fullNumber": "2142-6226",
+    "floor": "8F",
+    "user": "오휘",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6227",
+    "fullNumber": "2142-6227",
+    "floor": "8F",
+    "user": "빌리프",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6228",
+    "fullNumber": "2142-6228",
+    "floor": "8F",
+    "user": "로라 메르시에",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6229",
+    "fullNumber": "2142-6229",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6230",
+    "fullNumber": "2142-6230",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6231",
+    "fullNumber": "2142-6231",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6232",
+    "fullNumber": "2142-6232",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6233",
+    "fullNumber": "2142-6233",
+    "floor": "8F",
+    "user": "시슬리",
+    "department": "9층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6234",
+    "fullNumber": "2142-6234",
+    "floor": "8F",
+    "user": "정샘물",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6235",
+    "fullNumber": "2142-6235",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6236",
+    "fullNumber": "2142-6236",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6237",
+    "fullNumber": "2142-6237",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6238",
+    "fullNumber": "2142-6238",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6239",
+    "fullNumber": "2142-6239",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6240",
+    "fullNumber": "2142-6240",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6241",
+    "fullNumber": "2142-6241",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6242",
+    "fullNumber": "2142-6242",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6243",
+    "fullNumber": "2142-6243",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6244",
+    "fullNumber": "2142-6244",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6245",
+    "fullNumber": "2142-6245",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6246",
+    "fullNumber": "2142-6246",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6247",
+    "fullNumber": "2142-6247",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6248",
+    "fullNumber": "2142-6248",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6249",
+    "fullNumber": "2142-6249",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6250",
+    "fullNumber": "2142-6250",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6251",
+    "fullNumber": "2142-6251",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6252",
+    "fullNumber": "2142-6252",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6253",
+    "fullNumber": "2142-6253",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6254",
+    "fullNumber": "2142-6254",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6255",
+    "fullNumber": "2142-6255",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6256",
+    "fullNumber": "2142-6256",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6257",
+    "fullNumber": "2142-6257",
+    "floor": "8F",
+    "user": "차앤박·네이처컬렉션·더페이스샵",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6258",
+    "fullNumber": "2142-6258",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6259",
+    "fullNumber": "2142-6259",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6260",
+    "fullNumber": "2142-6260",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6261",
+    "fullNumber": "2142-6261",
+    "floor": "8F",
+    "user": "브이티",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6262",
+    "fullNumber": "2142-6262",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6263",
+    "fullNumber": "2142-6263",
+    "floor": "8F",
+    "user": "동인비",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6264",
+    "fullNumber": "2142-6264",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6265",
+    "fullNumber": "2142-6265",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6266",
+    "fullNumber": "2142-6266",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6267",
+    "fullNumber": "2142-6267",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6268",
+    "fullNumber": "2142-6268",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6269",
+    "fullNumber": "2142-6269",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6270",
+    "fullNumber": "2142-6270",
+    "floor": "8F",
+    "user": "브링그린라운드어라운드바이오힐보컬러그램웨이크메이크아이디얼포맨필리밀리케어플러스",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6271",
+    "fullNumber": "2142-6271",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6272",
+    "fullNumber": "2142-6272",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6273",
+    "fullNumber": "2142-6273",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6274",
+    "fullNumber": "2142-6274",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6275",
+    "fullNumber": "2142-6275",
+    "floor": "8F",
+    "user": "웰라쥬",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6276",
+    "fullNumber": "2142-6276",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6277",
+    "fullNumber": "2142-6277",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6278",
+    "fullNumber": "2142-6278",
+    "floor": "8F",
+    "user": "스와로브스키",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6279",
+    "fullNumber": "2142-6279",
+    "floor": "8F",
+    "user": "바닐라코",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6280",
+    "fullNumber": "2142-6280",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6281",
+    "fullNumber": "2142-6281",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6282",
+    "fullNumber": "2142-6282",
+    "floor": "8F",
+    "user": "더마퓨어클리닉블리블리끌레드벨피에스아이케이멀티 반티룩스루벨리에이바자르아로마용리솔츠웰라쥬바이리즌",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6283",
+    "fullNumber": "2142-6283",
+    "floor": "8F",
+    "user": "리쥬란",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6284",
+    "fullNumber": "2142-6284",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6285",
+    "fullNumber": "2142-6285",
+    "floor": "8F",
+    "user": "엠씨엠",
+    "department": "8층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6286",
+    "fullNumber": "2142-6286",
+    "floor": "8F",
+    "user": "케이멀티 에이치제이, 아로셀, 매드포코스, 울트라브이, 더라퓨즈, 데이지크, 바이애콤, 하루하루,원더, 애프터블로우, 케이멀티,남유에프엔씨",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6287",
+    "fullNumber": "2142-6287",
+    "floor": "8F",
+    "user": "메디힐\n·케이멀티 유니앤코, 수다이, 펠드아포테케, 케이멀티 유니앤코",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6288",
+    "fullNumber": "2142-6288",
+    "floor": "8F",
+    "user": "시설",
+    "department": "도급",
+    "status": "사용중"
+  },
+  {
+    "number": "6289",
+    "fullNumber": "2142-6289",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6290",
+    "fullNumber": "2142-6290",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6291",
+    "fullNumber": "2142-6291",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6292",
+    "fullNumber": "2142-6292",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6293",
+    "fullNumber": "2142-6293",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6294",
+    "fullNumber": "2142-6294",
+    "floor": "8F",
+    "user": "케어링",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6295",
+    "fullNumber": "2142-6295",
+    "floor": "8F",
+    "user": "선글라스3 - 시원아이웨어\n(BYWP·포나인즈·실루엣·\n질스튜어트·시원·제냐)",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6296",
+    "fullNumber": "2142-6296",
+    "floor": "8F",
+    "user": "선글라스1 - 룩쏘티카\n(레이벤·오클리·프라다\n·미우미우·버버리)",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6297",
+    "fullNumber": "2142-6297",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6298",
+    "fullNumber": "2142-6298",
+    "floor": "8F",
+    "user": "케라스타즈",
+    "department": "9층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6299",
+    "fullNumber": "2142-6299",
+    "floor": "8F",
+    "user": "엘에이치앤디(국산), SWISSE 外(수입)",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6300",
+    "fullNumber": "2142-6300",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6301",
+    "fullNumber": "2142-6301",
+    "floor": "8F",
+    "user": "정관장",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6302",
+    "fullNumber": "2142-6302",
+    "floor": "9F",
+    "user": "식품 & 수비니어\n코롬방, 피닉스진생, 오스떼\n드럭스토어, 다나누리(식품/제과)\n허니버터아몬드",
+    "department": "9층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6303",
+    "fullNumber": "2142-6303",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6304",
+    "fullNumber": "2142-6304",
+    "floor": "8F",
+    "user": "ECCO",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6305",
+    "fullNumber": "2142-6305",
+    "floor": "8F",
+    "user": "모로칸오일",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6306",
+    "fullNumber": "2142-6306",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6307",
+    "fullNumber": "2142-6307",
+    "floor": "8F",
+    "user": "SK-II",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6308",
+    "fullNumber": "2142-6308",
+    "floor": "8F",
+    "user": "라프레리",
+    "department": "9층 스파룸",
+    "status": "사용중"
+  },
+  {
+    "number": "6309",
+    "fullNumber": "2142-6309",
+    "floor": "8F",
+    "user": "선글라스2 - 룩옵틱스\n(페라가모·에드하디·필라·셀린·디올·펜디·산드로·나이키·폴스미스)",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6310",
+    "fullNumber": "2142-6310",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6311",
+    "fullNumber": "2142-6311",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6312",
+    "fullNumber": "2142-6312",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6313",
+    "fullNumber": "2142-6313",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6314",
+    "fullNumber": "2142-6314",
+    "floor": "8F",
+    "user": "아워글라스",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6315",
+    "fullNumber": "2142-6315",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6316",
+    "fullNumber": "2142-6316",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6317",
+    "fullNumber": "2142-6317",
+    "floor": "8F",
+    "user": "아쿠아 디 파르마",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6318",
+    "fullNumber": "2142-6318",
+    "floor": "8F",
+    "user": "오에라",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6319",
+    "fullNumber": "2142-6319",
+    "floor": "8F",
+    "user": "몽클레르, 반클리프 퍼퓸",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6320",
+    "fullNumber": "2142-6320",
+    "floor": "9F",
+    "user": "아무아쥬",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6321",
+    "fullNumber": "2142-6321",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6322",
+    "fullNumber": "2142-6322",
+    "floor": "8F",
+    "user": "프라다 퍼퓸",
+    "department": "9층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6323",
+    "fullNumber": "2142-6323",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6324",
+    "fullNumber": "2142-6324",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6325",
+    "fullNumber": "2142-6325",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6326",
+    "fullNumber": "2142-6326",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6327",
+    "fullNumber": "2142-6327",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6328",
+    "fullNumber": "2142-6328",
+    "floor": "8F",
+    "user": "제이엠솔루션트와터치케이멀티 지피클럽",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6329",
+    "fullNumber": "2142-6329",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6330",
+    "fullNumber": "2142-6330",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6331",
+    "fullNumber": "2142-6331",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6332",
+    "fullNumber": "2142-6332",
+    "floor": "8F",
+    "user": "스킨푸드",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6333",
+    "fullNumber": "2142-6333",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6334",
+    "fullNumber": "2142-6334",
+    "floor": "8F",
+    "user": "마리떼프랑소와저버",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6335",
+    "fullNumber": "2142-6335",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6336",
+    "fullNumber": "2142-6336",
+    "floor": "8F",
+    "user": "디스커버리",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6337",
+    "fullNumber": "2142-6337",
+    "floor": "8F",
+    "user": "노스페이스",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6338",
+    "fullNumber": "2142-6338",
+    "floor": "8F",
+    "user": "폴라",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6339",
+    "fullNumber": "2142-6339",
+    "floor": "8F",
+    "user": "CALVIN KLEIN(K)",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6340",
+    "fullNumber": "2142-6340",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6341",
+    "fullNumber": "2142-6341",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6342",
+    "fullNumber": "2142-6342",
+    "floor": "8F",
+    "user": "에비수",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6343",
+    "fullNumber": "2142-6343",
+    "floor": "8F",
+    "user": "전자(필립스·보스·에프터샥즈·뱅앤올룹슨·인스타360·삼성·엘지·쿠쿠·고프로)",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6344",
+    "fullNumber": "2142-6344",
+    "floor": "8F",
+    "user": "내셔널지오그래픽",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6345",
+    "fullNumber": "2142-6345",
+    "floor": "8F",
+    "user": "라코스테",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6346",
+    "fullNumber": "2142-6346",
+    "floor": "8F",
+    "user": "커버낫",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6347",
+    "fullNumber": "2142-6347",
+    "floor": "8F",
+    "user": "럭키클로버",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6348",
+    "fullNumber": "2142-6348",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6349",
+    "fullNumber": "2142-6349",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6350",
+    "fullNumber": "2142-6350",
+    "floor": "8F",
+    "user": "김철민 과장",
+    "department": "SCM(무역)",
+    "status": "사용중"
+  },
+  {
+    "number": "6351",
+    "fullNumber": "2142-6351",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6352",
+    "fullNumber": "2142-6352",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6353",
+    "fullNumber": "2142-6353",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6354",
+    "fullNumber": "2142-6354",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6355",
+    "fullNumber": "2142-6355",
+    "floor": "8F",
+    "user": "이다영 사원",
+    "department": "2파트(서무)",
+    "status": "사용중"
+  },
+  {
+    "number": "6356",
+    "fullNumber": "2142-6356",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6357",
+    "fullNumber": "2142-6357",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6358",
+    "fullNumber": "2142-6358",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6359",
+    "fullNumber": "2142-6359",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6360",
+    "fullNumber": "2142-6360",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6361",
+    "fullNumber": "2142-6361",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6362",
+    "fullNumber": "2142-6362",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6363",
+    "fullNumber": "2142-6363",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6364",
+    "fullNumber": "2142-6364",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6365",
+    "fullNumber": "2142-6365",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6366",
+    "fullNumber": "2142-6366",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6367",
+    "fullNumber": "2142-6367",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6368",
+    "fullNumber": "2142-6368",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6369",
+    "fullNumber": "2142-6369",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6370",
+    "fullNumber": "2142-6370",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6371",
+    "fullNumber": "2142-6371",
+    "floor": "8F",
+    "user": "이승민 대리",
+    "department": "2파트(영업)",
+    "status": "사용중"
+  },
+  {
+    "number": "6372",
+    "fullNumber": "2142-6372",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6373",
+    "fullNumber": "2142-6373",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6374",
+    "fullNumber": "2142-6374",
+    "floor": "8F",
+    "user": "김원경 과장",
+    "department": "고객관리파트",
+    "status": "사용중"
+  },
+  {
+    "number": "6375",
+    "fullNumber": "2142-6375",
+    "floor": "-",
+    "user": "이빈",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6376",
+    "fullNumber": "2142-6376",
+    "floor": "-",
+    "user": "전가람",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6377",
+    "fullNumber": "2142-6377",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6378",
+    "fullNumber": "2142-6378",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6379",
+    "fullNumber": "2142-6379",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6380",
+    "fullNumber": "2142-6380",
+    "floor": "8F",
+    "user": "한지훈 과장",
+    "department": "1파트(기획)",
+    "status": "사용중"
+  },
+  {
+    "number": "6381",
+    "fullNumber": "2142-6381",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6382",
+    "fullNumber": "2142-6382",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6383",
+    "fullNumber": "2142-6383",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6384",
+    "fullNumber": "2142-6384",
+    "floor": "8F",
+    "user": "임지선 대리",
+    "department": "1파트(기획)",
+    "status": "사용중"
+  },
+  {
+    "number": "6385",
+    "fullNumber": "2142-6385",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6386",
+    "fullNumber": "2142-6386",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6387",
+    "fullNumber": "2142-6387",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6388",
+    "fullNumber": "2142-6388",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6389",
+    "fullNumber": "2142-6389",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6390",
+    "fullNumber": "2142-6390",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6391",
+    "fullNumber": "2142-6391",
+    "floor": "8F",
+    "user": "조준기 차장",
+    "department": "1파트(파트장)",
+    "status": "사용중"
+  },
+  {
+    "number": "6392",
+    "fullNumber": "2142-6392",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6393",
+    "fullNumber": "2142-6393",
+    "floor": "8F",
+    "user": "이슬 사원",
+    "department": "2파트(ERP)",
+    "status": "사용중"
+  },
+  {
+    "number": "6394",
+    "fullNumber": "2142-6394",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6395",
+    "fullNumber": "2142-6395",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6396",
+    "fullNumber": "2142-6396",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6397",
+    "fullNumber": "2142-6397",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6398",
+    "fullNumber": "2142-6398",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6399",
+    "fullNumber": "2142-6399",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6400",
+    "fullNumber": "2142-6400",
+    "floor": "9F",
+    "user": "고객용 전화(콜센터 직통)",
+    "department": "고객관리파트",
+    "status": "사용중"
+  },
+  {
+    "number": "6401",
+    "fullNumber": "2142-6401",
+    "floor": "9F",
+    "user": "회수용 단말기 ",
+    "department": "고객관리파트",
+    "status": "사용중"
+  },
+  {
+    "number": "6402",
+    "fullNumber": "2142-6402",
+    "floor": "9F",
+    "user": "멤버십데스크",
+    "department": "고객관리파트",
+    "status": "사용중"
+  },
+  {
+    "number": "6403",
+    "fullNumber": "2142-6403",
+    "floor": "9F",
+    "user": "멤버십데스크",
+    "department": "고객관리파트",
+    "status": "사용중"
+  },
+  {
+    "number": "6404",
+    "fullNumber": "2142-6404",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6405",
+    "fullNumber": "2142-6405",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6406",
+    "fullNumber": "2142-6406",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6407",
+    "fullNumber": "2142-6407",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6408",
+    "fullNumber": "2142-6408",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6409",
+    "fullNumber": "2142-6409",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6410",
+    "fullNumber": "2142-6410",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6411",
+    "fullNumber": "2142-6411",
+    "floor": "9F",
+    "user": "그룹데스크",
+    "department": "고객관리파트",
+    "status": "사용중"
+  },
+  {
+    "number": "6412",
+    "fullNumber": "2142-6412",
+    "floor": "9F",
+    "user": "그룹데스크",
+    "department": "고객관리파트",
+    "status": "사용중"
+  },
+  {
+    "number": "6413",
+    "fullNumber": "2142-6413",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6414",
+    "fullNumber": "2142-6414",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6415",
+    "fullNumber": "2142-6415",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6416",
+    "fullNumber": "2142-6416",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6417",
+    "fullNumber": "2142-6417",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6418",
+    "fullNumber": "2142-6418",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6419",
+    "fullNumber": "2142-6419",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6420",
+    "fullNumber": "2142-6420",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6421",
+    "fullNumber": "2142-6421",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6422",
+    "fullNumber": "2142-6422",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6423",
+    "fullNumber": "2142-6423",
+    "floor": "9F",
+    "user": "라이프워크",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6424",
+    "fullNumber": "2142-6424",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6425",
+    "fullNumber": "2142-6425",
+    "floor": "9F",
+    "user": "육심원",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6426",
+    "fullNumber": "2142-6426",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6427",
+    "fullNumber": "2142-6427",
+    "floor": "9F",
+    "user": "엠엘비",
+    "department": "8층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6428",
+    "fullNumber": "2142-6428",
+    "floor": "9F",
+    "user": "식품 & 수비니어\n코롬방, 피닉스진생, 오스떼\n드럭스토어, 다나누리(식품/제과)\n허니버터아몬드",
+    "department": "9층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6429",
+    "fullNumber": "2142-6429",
+    "floor": "9F",
+    "user": "휠라",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6430",
+    "fullNumber": "2142-6430",
+    "floor": "9F",
+    "user": "KT&G담배\n( IQOS· ·중국담배)",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6431",
+    "fullNumber": "2142-6431",
+    "floor": "9F",
+    "user": "주류\n(헤네시·글렌피딕·까뮤·레미마틴·마텔·발렌타인·로얄살루트·시바스리갈·조니워커, 유림전통주, 문배술)",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6432",
+    "fullNumber": "2142-6432",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6433",
+    "fullNumber": "2142-6433",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6434",
+    "fullNumber": "2142-6434",
+    "floor": "9F",
+    "user": "후아유",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6435",
+    "fullNumber": "2142-6435",
+    "floor": "9F",
+    "user": "담배",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6436",
+    "fullNumber": "2142-6436",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6437",
+    "fullNumber": "2142-6437",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6438",
+    "fullNumber": "2142-6438",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6439",
+    "fullNumber": "2142-6439",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6440",
+    "fullNumber": "2142-6440",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6441",
+    "fullNumber": "2142-6441",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6442",
+    "fullNumber": "2142-6442",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6443",
+    "fullNumber": "2142-6443",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6444",
+    "fullNumber": "2142-6444",
+    "floor": "9F",
+    "user": "스나이델",
+    "department": "9층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6445",
+    "fullNumber": "2142-6445",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6446",
+    "fullNumber": "2142-6446",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6447",
+    "fullNumber": "2142-6447",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6448",
+    "fullNumber": "2142-6448",
+    "floor": "9F",
+    "user": "아크메드라비",
+    "department": "8층 매장",
+    "status": "사용중"
+  },
+  {
+    "number": "6449",
+    "fullNumber": "2142-6449",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6450",
+    "fullNumber": "2142-6450",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6451",
+    "fullNumber": "2142-6451",
+    "floor": "-",
+    "user": "송정훈 주임",
+    "department": "SCM(통물)",
+    "status": "사용중"
+  },
+  {
+    "number": "6452",
+    "fullNumber": "2142-6452",
+    "floor": "-",
+    "user": "서지혜 주임",
+    "department": "",
+    "status": "사용중"
+  },
+  {
+    "number": "6453",
+    "fullNumber": "2142-6453",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6454",
+    "fullNumber": "2142-6454",
+    "floor": "-",
+    "user": "고영주 과장",
+    "department": "SCM(통물)",
+    "status": "사용중"
+  },
+  {
+    "number": "6455",
+    "fullNumber": "2142-6455",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6456",
+    "fullNumber": "2142-6456",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6457",
+    "fullNumber": "2142-6457",
+    "floor": "-",
+    "user": "황윤호 대리",
+    "department": "SCM(통물)",
+    "status": "사용중"
+  },
+  {
+    "number": "6458",
+    "fullNumber": "2142-6458",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6459",
+    "fullNumber": "2142-6459",
+    "floor": "-",
+    "user": "여세진 주임",
+    "department": "SCM(통물)",
+    "status": "사용중"
+  },
+  {
+    "number": "6460",
+    "fullNumber": "2142-6460",
+    "floor": "-",
+    "user": "임종훈 과장",
+    "department": "SCM(통물)",
+    "status": "사용중"
+  },
+  {
+    "number": "6461",
+    "fullNumber": "2142-6461",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6462",
+    "fullNumber": "2142-6462",
+    "floor": "-",
+    "user": "조아라 사원",
+    "department": "SCM(통물)",
+    "status": "사용중"
+  },
+  {
+    "number": "6463",
+    "fullNumber": "2142-6463",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6464",
+    "fullNumber": "2142-6464",
+    "floor": "-",
+    "user": "김혜령 대리",
+    "department": "SCM(통물)",
+    "status": "사용중"
+  },
+  {
+    "number": "6465",
+    "fullNumber": "2142-6465",
+    "floor": "-",
+    "user": "이수인 주임",
+    "department": "SCM(통물)",
+    "status": "사용중"
+  },
+  {
+    "number": "6466",
+    "fullNumber": "2142-6466",
+    "floor": "-",
+    "user": "정은주 주임",
+    "department": "SCM(통물)",
+    "status": "사용중"
+  },
+  {
+    "number": "6467",
+    "fullNumber": "2142-6467",
+    "floor": "-",
+    "user": "이상우 주임",
+    "department": "SCM(통물)",
+    "status": "사용중"
+  },
+  {
+    "number": "6468",
+    "fullNumber": "2142-6468",
+    "floor": "-",
+    "user": "통물 FAX",
+    "department": "SCM(통물)",
+    "status": "사용중"
+  },
+  {
+    "number": "6469",
+    "fullNumber": "2142-6469",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6470",
+    "fullNumber": "2142-6470",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6471",
+    "fullNumber": "2142-6471",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6472",
+    "fullNumber": "2142-6472",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6473",
+    "fullNumber": "2142-6473",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6474",
+    "fullNumber": "2142-6474",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6475",
+    "fullNumber": "2142-6475",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6476",
+    "fullNumber": "2142-6476",
+    "floor": "-",
+    "user": "제1통물",
+    "department": "SCM(통물)",
+    "status": "사용중"
+  },
+  {
+    "number": "6477",
+    "fullNumber": "2142-6477",
+    "floor": "-",
+    "user": "수입·통관",
+    "department": "SCM(통물)",
+    "status": "사용중"
+  },
+  {
+    "number": "6478",
+    "fullNumber": "2142-6478",
+    "floor": "-",
+    "user": "전시 피킹·패킹",
+    "department": "SCM(통물)",
+    "status": "사용중"
+  },
+  {
+    "number": "6479",
+    "fullNumber": "2142-6479",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6480",
+    "fullNumber": "2142-6480",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6481",
+    "fullNumber": "2142-6481",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6482",
+    "fullNumber": "2142-6482",
+    "floor": "-",
+    "user": "전시 전산",
+    "department": "SCM(통물)",
+    "status": "사용중"
+  },
+  {
+    "number": "6483",
+    "fullNumber": "2142-6483",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6484",
+    "fullNumber": "2142-6484",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6485",
+    "fullNumber": "2142-6485",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6486",
+    "fullNumber": "2142-6486",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6487",
+    "fullNumber": "2142-6487",
+    "floor": "-",
+    "user": "이성수 대리",
+    "department": "SCM(통물)",
+    "status": "사용중"
+  },
+  {
+    "number": "6488",
+    "fullNumber": "2142-6488",
+    "floor": "-",
+    "user": "강태욱 부장",
+    "department": "SCM(통물)",
+    "status": "사용중"
+  },
+  {
+    "number": "6489",
+    "fullNumber": "2142-6489",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6490",
+    "fullNumber": "2142-6490",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6491",
+    "fullNumber": "2142-6491",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6492",
+    "fullNumber": "2142-6492",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6493",
+    "fullNumber": "2142-6493",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6494",
+    "fullNumber": "2142-6494",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6495",
+    "fullNumber": "2142-6495",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6496",
+    "fullNumber": "2142-6496",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6497",
+    "fullNumber": "2142-6497",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6498",
+    "fullNumber": "2142-6498",
+    "floor": "-",
+    "user": "미사용",
+    "department": "",
+    "status": "미사용"
+  },
+  {
+    "number": "6499",
+    "fullNumber": "2142-6499",
     "floor": "-",
     "user": "미사용",
     "department": "",
