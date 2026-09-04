@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#0f766e">
+  <title>무역점 내선번호</title>
+  <style>
+    :root{--bg:#f3f4f6;--card:#fff;--text:#1f2937;--muted:#6b7280;--line:#e5e7eb;--brand:#0f766e;--brand2:#14b8a6;--red:#e11d48;--gray:#9ca3af}
+    *{box-sizing:border-box}body{margin:0;font-family:Arial,"Noto Sans KR",sans-serif;background:var(--bg);color:var(--text)}
+    .wrap{max-width:900px;margin:auto;padding:20px 16px 48px}.hero{background:linear-gradient(135deg,#0f766e,#14b8a6);color:#fff;padding:26px 22px;border-radius:24px;box-shadow:0 12px 30px #0f766e33}
+    h1{margin:0 0 6px;font-size:25px}.hero p{margin:0;opacity:.9;font-size:13px}.search{position:sticky;top:0;z-index:5;padding:14px 0;background:linear-gradient(var(--bg) 75%,transparent)}
+    .searchbox{display:flex;align-items:center;gap:10px;background:var(--card);border:1px solid var(--line);border-radius:18px;padding:13px 16px;box-shadow:0 4px 16px #0000000a}
+    .searchbox input{width:100%;border:0;outline:0;font-size:15px;background:transparent}.toolbar{display:flex;gap:8px;align-items:center;justify-content:space-between;margin:2px 2px 14px;flex-wrap:wrap}
+    .count{font-size:12px;font-weight:700;color:var(--muted)}.filters{display:flex;gap:6px}.filter{border:1px solid var(--line);background:#fff;color:var(--muted);padding:7px 11px;border-radius:999px;font-size:11px;font-weight:700;cursor:pointer}.filter.active{background:var(--brand);color:white;border-color:var(--brand)}
+    .grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.card{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:15px;display:flex;justify-content:space-between;gap:12px;align-items:center;box-shadow:0 3px 12px #00000008}.card.unused{opacity:.65;background:#f9fafb}
+    .info{min-width:0}.name{font-size:15px;font-weight:800;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.meta{font-size:11px;color:var(--muted);margin-top:5px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.row{display:flex;gap:7px;align-items:center;margin-top:7px}.badge{font-size:9px;font-weight:800;border-radius:999px;padding:4px 7px;background:#ccfbf1;color:#0f766e}.badge.unused{background:#e5e7eb;color:#6b7280}
+    .actions{display:flex;flex-direction:column;gap:7px;align-items:stretch}.call,.fav{border:0;border-radius:12px;cursor:pointer;font-weight:800}.call{background:var(--brand);color:#fff;padding:10px 13px;font-size:13px;white-space:nowrap;text-decoration:none}.call.disabled{background:var(--gray);pointer-events:none}.fav{background:#f3f4f6;color:#9ca3af;padding:7px}.fav.on{color:#f59e0b;background:#fffbeb}
+    .empty,.error{text-align:center;background:#fff;border:1px dashed var(--line);border-radius:18px;padding:42px 18px;color:var(--muted)}.error{color:var(--red)}
+    footer{text-align:center;margin-top:24px;color:#9ca3af;font-size:10px}@media(max-width:620px){.grid{grid-template-columns:1fr}.wrap{padding:14px 12px 36px}.hero{border-radius:20px}.card{padding:14px}}
+  </style>
+</head>
+<body>
+<main class="wrap">
+  <section class="hero"><h1>무역점 내선번호</h1><p>번호, 층, 사용자, 부서로 검색하세요.</p></section>
+  <div class="search"><div class="searchbox"><span>🔍</span><input id="q" type="search" autocomplete="off" placeholder="예: 6011, 8F, 영업2파트"></div></div>
+  <div class="toolbar"><div id="count" class="count">불러오는 중...</div><div class="filters"><button class="filter active" data-filter="all">전체</button><button class="filter" data-filter="active">사용중</button><button class="filter" data-filter="unused">미사용</button></div></div>
+  <section id="list" class="grid"></section>
+  <footer>내선 정보 문의는 관리 담당자에게 연락해 주세요.</footer>
+</main>
+<script>
+  let extensions=[]; let filter='all';
+  const q=document.getElementById('q'), list=document.getElementById('list'), count=document.getElementById('count');
+  const esc=v=>String(v??'').replace(/[&<>'"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));
+  const clean=v=>String(v??'').trim();
+  const isUnused=e=>clean(e.status)==='미사용'||clean(e.user)==='미사용';
+  const favorites=()=>{try{return JSON.parse(localStorage.getItem('tel_favorites')||'[]')}catch{return[]}};
+  function toggleFav(number){const a=favorites();const n=a.includes(number)?a.filter(x=>x!==number):[...a,number];localStorage.setItem('tel_favorites',JSON.stringify(n));render()}
+  function normalize(e){const number=clean(e.number).replace(/[^0-9]/g,'').slice(-4);const unused=isUnused(e);return{number,fullNumber:clean(e.fullNumber)||`2142-${number}`,floor:unused?'-':clean(e.floor),user:unused?'미사용':clean(e.user),department:unused?'':clean(e.department),status:unused?'미사용':'사용중'}}
+  function render(){const term=q.value.trim().toLowerCase();const fav=favorites();let data=extensions.map(normalize).filter(e=>e.number&&(!term||[e.number,e.fullNumber,e.floor,e.user,e.department,e.status].some(v=>v.toLowerCase().includes(term))));if(filter==='active')data=data.filter(e=>e.status==='사용중');if(filter==='unused')data=data.filter(e=>e.status==='미사용');data.sort((a,b)=>(fav.includes(a.number)?0:1)-(fav.includes(b.number)?0:1)||a.number.localeCompare(b.number,'ko',{numeric:true}));count.textContent=`총 ${data.length}개 내선`;if(!data.length){list.innerHTML='<div class="empty">검색 결과가 없습니다.</div>';return}list.innerHTML=data.map(e=>{const unused=e.status==='미사용',on=fav.includes(e.number),tel=(e.fullNumber||e.number).replace(/[^0-9]/g,'');return `<article class="card ${unused?'unused':''}"><div class="info"><div class="name">${esc(e.user||'사용자 미지정')}</div><div class="meta">${esc(e.floor||'-')} · ${esc(e.department||'부서 없음')}</div><div class="row"><span class="badge ${unused?'unused':''}">${esc(e.status)}</span><strong>${esc(e.number)}</strong></div></div><div class="actions"><button class="fav ${on?'on':''}" onclick="toggleFav('${esc(e.number)}')">${on?'★':'☆'} 즐겨찾기</button><a class="call ${unused?'disabled':''}" href="${unused?'#':'tel:'+tel}">☎ ${esc(e.number)}</a></div></article>`}).join('')}
+  document.querySelectorAll('.filter').forEach(b=>b.onclick=()=>{document.querySelectorAll('.filter').forEach(x=>x.classList.remove('active'));b.classList.add('active');filter=b.dataset.filter;render()});q.addEventListener('input',render);
+  fetch('./extensions.json?ts='+Date.now(),{cache:'no-store'}).then(r=>{if(!r.ok)throw new Error();return r.json()}).then(data=>{extensions=Array.isArray(data)?data:[];render()}).catch(()=>{count.textContent='데이터 오류';list.innerHTML='<div class="error">extensions.json을 불러오지 못했습니다.</div>'});
+</script>
+</body>
+</html>
