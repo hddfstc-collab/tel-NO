@@ -75,7 +75,7 @@
     "number": "6009",
     "fullNumber": "2142-6009",
     "floor": "8F",
-    "user": "팩스",
+    "user": "SCM 팩스",
     "department": "SCM(무역)",
     "status": "사용중"
   },
@@ -90,9 +90,9 @@
   {
     "number": "6011",
     "fullNumber": "2142-6011",
-    "floor": "B2F",
+    "floor": "8F",
     "user": "김광훈 대리",
-    "department": "2파트(총무)",
+    "department": "영업2파트",
     "status": "사용중"
   },
   {
@@ -107,7 +107,7 @@
     "number": "6013",
     "fullNumber": "2142-6013",
     "floor": "B2F",
-    "user": "팩스 FAX",
+    "user": "SCM 팩스",
     "department": "SCM(무역)",
     "status": "사용중"
   },
@@ -115,7 +115,7 @@
     "number": "6014",
     "fullNumber": "2142-6014",
     "floor": "B2F",
-    "user": "항공/보세업무",
+    "user": "항공스케쥴 / 보세업무",
     "department": "SCM(무역)",
     "status": "사용중"
   },
@@ -123,7 +123,7 @@
     "number": "6015",
     "fullNumber": "2142-6015",
     "floor": "B2F",
-    "user": "항공/보세업무",
+    "user": "항공스케쥴 / 보세업무",
     "department": "SCM(무역)",
     "status": "사용중"
   },
@@ -139,7 +139,7 @@
     "number": "6017",
     "fullNumber": "2142-6017",
     "floor": "B2F",
-    "user": "판매취소, 판취재고",
+    "user": "판매취소 / 판취재고",
     "department": "SCM(무역)",
     "status": "사용중"
   },
@@ -188,7 +188,7 @@
     "fullNumber": "2142-6023",
     "floor": "B2",
     "user": "전산실",
-    "department": "도급",
+    "department": "해인",
     "status": "사용중"
   },
   {
@@ -196,7 +196,7 @@
     "fullNumber": "2142-6024",
     "floor": "B2",
     "user": "전산실",
-    "department": "도급",
+    "department": "해인",
     "status": "사용중"
   },
   {
@@ -204,7 +204,7 @@
     "fullNumber": "2142-6025",
     "floor": "B2",
     "user": "전산실",
-    "department": "도급",
+    "department": "해인",
     "status": "사용중"
   },
   {
@@ -219,7 +219,7 @@
     "number": "6027",
     "fullNumber": "2142-6027",
     "floor": "8F",
-    "user": "빈자리",
+    "user": "김윤수 사원",
     "department": "SCM(무역)",
     "status": "사용중"
   },
@@ -227,7 +227,7 @@
     "number": "6028",
     "fullNumber": "2142-6028",
     "floor": "8F",
-    "user": "방청일 대리",
+    "user": "전가람 선임사원",
     "department": "SCM(무역)",
     "status": "사용중"
   },
@@ -242,9 +242,9 @@
   {
     "number": "6030",
     "fullNumber": "2142-6030",
-    "floor": "8F",
+    "floor": "B2F",
     "user": "촬영실",
-    "department": "도급",
+    "department": "웨이브",
     "status": "사용중"
   },
   {
@@ -276,7 +276,7 @@
     "fullNumber": "2142-6034",
     "floor": "8F",
     "user": "구준모 주임",
-    "department": "1파트(영업)",
+    "department": "영업1파트",
     "status": "사용중"
   },
   {
@@ -292,7 +292,7 @@
     "fullNumber": "2142-6036",
     "floor": "8F",
     "user": "노홍균 차장",
-    "department": "무역센터 점장",
+    "department": "무역센터",
     "status": "사용중"
   },
   {
@@ -348,7 +348,7 @@
     "fullNumber": "2142-6043",
     "floor": "8F",
     "user": "김지은 과장",
-    "department": "2파트(영업)",
+    "department": "영업2파트",
     "status": "사용중"
   },
   {
@@ -356,7 +356,7 @@
     "fullNumber": "2142-6044",
     "floor": "8F",
     "user": "윤서효 차장",
-    "department": "2파트(파트장)",
+    "department": "영업2파트",
     "status": "사용중"
   },
   {
@@ -372,15 +372,15 @@
     "fullNumber": "2142-6046",
     "floor": "8F",
     "user": "진민지 과장",
-    "department": "2파트(영업)",
+    "department": "영업2파트",
     "status": "사용중"
   },
   {
     "number": "6047",
     "fullNumber": "2142-6047",
-    "floor": "8F",
+    "floor": "9F",
     "user": "헬스키퍼",
-    "department": "여자휴게실",
+    "department": "",
     "status": "사용중"
   },
   {
@@ -388,7 +388,7 @@
     "fullNumber": "2142-6048",
     "floor": "8F",
     "user": "정민기 주임",
-    "department": "1파트(영업)",
+    "department": "영업1파트",
     "status": "사용중"
   },
   {
@@ -404,7 +404,7 @@
     "fullNumber": "2142-6050",
     "floor": "8F",
     "user": "박채린 주임",
-    "department": "2파트(영업)",
+    "department": "영업2파트",
     "status": "사용중"
   },
   {
@@ -419,8 +419,8 @@
     "number": "6052",
     "fullNumber": "2142-6052",
     "floor": "8F",
-    "user": "인턴",
-    "department": "1파트(영업)",
+    "user": "빈자리",
+    "department": "영업1파트",
     "status": "사용중"
   },
   {
@@ -484,7 +484,7 @@
     "fullNumber": "2142-6060",
     "floor": "8F",
     "user": "성지인 대리",
-    "department": "1파트(영업)",
+    "department": "영업1파트",
     "status": "사용중"
   },
   {
@@ -500,15 +500,15 @@
     "fullNumber": "2142-6062",
     "floor": "8F",
     "user": "김영현 대리",
-    "department": "1파트(영업)",
+    "department": "영업1파트",
     "status": "사용중"
   },
   {
     "number": "6063",
     "fullNumber": "2142-6063",
     "floor": "8F",
-    "user": "서가윤 대리",
-    "department": "2파트(영업)",
+    "user": "서가윤 대리(휴직)",
+    "department": "영업1파트",
     "status": "사용중"
   },
   {
@@ -555,7 +555,7 @@
     "number": "6069",
     "fullNumber": "2142-6069",
     "floor": "8F",
-    "user": "팩스",
+    "user": "영업팀 팩스",
     "department": "8층 사무실",
     "status": "사용중"
   },
@@ -708,7 +708,7 @@
     "fullNumber": "2142-6088",
     "floor": "8F",
     "user": "위블로",
-    "department": "8층 매장",
+    "department": "8층 (럭셔리패션/워치주얼리/패션)",
     "status": "사용중"
   },
   {
@@ -716,7 +716,7 @@
     "fullNumber": "2142-6089",
     "floor": "8F",
     "user": "몽클레르",
-    "department": "8층 매장",
+    "department": "8층 (럭셔리패션/워치주얼리/패션)",
     "status": "사용중"
   },
   {
@@ -724,7 +724,7 @@
     "fullNumber": "2142-6090",
     "floor": "8F",
     "user": "구찌 콜센터 (고객 문의)",
-    "department": "8층 매장",
+    "department": "8층 (럭셔리패션/워치주얼리/패션)",
     "status": "사용중"
   },
   {
@@ -732,7 +732,7 @@
     "fullNumber": "2142-6091",
     "floor": "8F",
     "user": "버버리",
-    "department": "8층 매장",
+    "department": "8층 (럭셔리패션/워치주얼리/패션)",
     "status": "사용중"
   },
   {
@@ -740,7 +740,7 @@
     "fullNumber": "2142-6092",
     "floor": "8F",
     "user": "페라가모",
-    "department": "8층 매장",
+    "department": "8층 (럭셔리패션/워치주얼리/패션)",
     "status": "사용중"
   },
   {
@@ -748,7 +748,7 @@
     "fullNumber": "2142-6093",
     "floor": "8F",
     "user": "알렉산더 맥퀸",
-    "department": "8층 매장",
+    "department": "8층 (럭셔리패션/워치주얼리/패션)",
     "status": "사용중"
   },
   {
@@ -756,7 +756,7 @@
     "fullNumber": "2142-6094",
     "floor": "8F",
     "user": "EVENT SHOP",
-    "department": "8층 매장",
+    "department": "8층 (럭셔리패션/워치주얼리/패션)",
     "status": "사용중"
   },
   {
@@ -764,7 +764,7 @@
     "fullNumber": "2142-6095",
     "floor": "8F",
     "user": "모스키노",
-    "department": "8층 매장",
+    "department": "8층 (럭셔리패션/워치주얼리/패션)",
     "status": "사용중"
   },
   {
@@ -772,7 +772,7 @@
     "fullNumber": "2142-6096",
     "floor": "8F",
     "user": "롱샴",
-    "department": "8층 매장",
+    "department": "8층 (럭셔리패션/워치주얼리/패션)",
     "status": "사용중"
   },
   {
@@ -780,7 +780,7 @@
     "fullNumber": "2142-6097",
     "floor": "8F",
     "user": "보테가베네타",
-    "department": "8층 매장",
+    "department": "8층 (럭셔리패션/워치주얼리/패션)",
     "status": "사용중"
   },
   {
@@ -788,7 +788,7 @@
     "fullNumber": "2142-6098",
     "floor": "8F",
     "user": "셀린느",
-    "department": "8층 매장",
+    "department": "8층 (럭셔리패션/워치주얼리/패션)",
     "status": "사용중"
   },
   {
@@ -812,7 +812,7 @@
     "fullNumber": "2142-6101",
     "floor": "8F",
     "user": "막스마라",
-    "department": "8층 매장",
+    "department": "8층 (럭셔리패션/워치주얼리/패션)",
     "status": "사용중"
   },
   {
@@ -828,7 +828,7 @@
     "fullNumber": "2142-6103",
     "floor": "8F",
     "user": "코치",
-    "department": "8층 매장",
+    "department": "8층 (럭셔리패션/워치주얼리/패션)",
     "status": "사용중"
   },
   {
@@ -844,7 +844,7 @@
     "fullNumber": "2142-6105",
     "floor": "8F",
     "user": "투미",
-    "department": "8층 매장",
+    "department": "8층 (럭셔리패션/워치주얼리/패션)",
     "status": "사용중"
   },
   {
@@ -852,7 +852,7 @@
     "fullNumber": "2142-6106",
     "floor": "8F",
     "user": "ORIS, GAGA MILANO, FREDERIQUE CONSTANT",
-    "department": "8층 매장",
+    "department": "8층 (럭셔리패션/워치주얼리/패션)",
     "status": "사용중"
   },
   {
@@ -860,7 +860,7 @@
     "fullNumber": "2142-6107",
     "floor": "8F",
     "user": "피아제",
-    "department": "8층 매장",
+    "department": "8층 (럭셔리패션/워치주얼리/패션)",
     "status": "사용중"
   },
   {
@@ -868,7 +868,7 @@
     "fullNumber": "2142-6108",
     "floor": "8F",
     "user": "올세인츠",
-    "department": "",
+    "department": "8층 (럭셔리패션/워치주얼리/패션)",
     "status": "사용중"
   },
   {
@@ -876,7 +876,7 @@
     "fullNumber": "2142-6109",
     "floor": "8F",
     "user": "프라다",
-    "department": "8층 매장",
+    "department": "8층 (럭셔리패션/워치주얼리/패션)",
     "status": "사용중"
   },
   {
@@ -884,7 +884,7 @@
     "fullNumber": "2142-6110",
     "floor": "8F",
     "user": "펜디",
-    "department": "8층 매장",
+    "department": "8층 (럭셔리패션/워치주얼리/패션)",
     "status": "사용중"
   },
   {
@@ -898,9 +898,9 @@
   {
     "number": "6112",
     "fullNumber": "2142-6112",
-    "floor": "8F",
-    "user": "면세보안(안전실)",
-    "department": "도급",
+    "floor": "B2F",
+    "user": "면세 보안실(안전실)",
+    "department": "캡스텍",
     "status": "사용중"
   },
   {
@@ -916,7 +916,7 @@
     "fullNumber": "2142-6114",
     "floor": "8F",
     "user": "골든구스",
-    "department": "8층 매장",
+    "department": "8층 (럭셔리패션/워치주얼리/패션)",
     "status": "사용중"
   },
   {
@@ -932,7 +932,7 @@
     "fullNumber": "2142-6116",
     "floor": "8F",
     "user": "키린",
-    "department": "8층 매장",
+    "department": "8층 (럭셔리패션/워치주얼리/패션)",
     "status": "사용중"
   },
   {
@@ -940,7 +940,7 @@
     "fullNumber": "2142-6117",
     "floor": "8F",
     "user": "몽블랑",
-    "department": "8층 매장",
+    "department": "8층 (럭셔리패션/워치주얼리/패션)",
     "status": "사용중"
   },
   {
@@ -948,15 +948,15 @@
     "fullNumber": "2142-6118",
     "floor": "8F",
     "user": "티쏘",
-    "department": "8층 매장",
+    "department": "8층 (럭셔리패션/워치주얼리/패션)",
     "status": "사용중"
   },
   {
     "number": "6119",
     "fullNumber": "2142-6119",
     "floor": "8F",
-    "user": "해밀턴, 라도",
-    "department": "8층 매장",
+    "user": "해밀턴, 라도, GAGA MILANO",
+    "department": "8층 (럭셔리패션/워치주얼리/패션)",
     "status": "사용중"
   },
   {
@@ -972,7 +972,7 @@
     "fullNumber": "2142-6121",
     "floor": "8F",
     "user": "미도",
-    "department": "8층 매장",
+    "department": "8층 (럭셔리패션/워치주얼리/패션)",
     "status": "사용중"
   },
   {
@@ -980,7 +980,7 @@
     "fullNumber": "2142-6122",
     "floor": "8F",
     "user": "생로랑",
-    "department": "8층 매장",
+    "department": "8층 (럭셔리패션/워치주얼리/패션)",
     "status": "사용중"
   },
   {
@@ -988,7 +988,7 @@
     "fullNumber": "2142-6123",
     "floor": "8F",
     "user": "그랜드 세이코",
-    "department": "8층 매장",
+    "department": "8층 (럭셔리패션/워치주얼리/패션)",
     "status": "사용중"
   },
   {
@@ -996,7 +996,7 @@
     "fullNumber": "2142-6124",
     "floor": "8F",
     "user": "오메가",
-    "department": "8층 매장",
+    "department": "8층 (럭셔리패션/워치주얼리/패션)",
     "status": "사용중"
   },
   {
@@ -1004,7 +1004,7 @@
     "fullNumber": "2142-6125",
     "floor": "8F",
     "user": "론진",
-    "department": "8층 매장",
+    "department": "8층 (럭셔리패션/워치주얼리/패션)",
     "status": "사용중"
   },
   {
@@ -1012,7 +1012,7 @@
     "fullNumber": "2142-6126",
     "floor": "8F",
     "user": "블랑팡",
-    "department": "8층 매장",
+    "department": "8층 (럭셔리패션/워치주얼리/패션)",
     "status": "사용중"
   },
   {
@@ -1020,7 +1020,7 @@
     "fullNumber": "2142-6127",
     "floor": "8F",
     "user": "로에베",
-    "department": "8층 매장",
+    "department": "8층 (럭셔리패션/워치주얼리/패션)",
     "status": "사용중"
   },
   {
@@ -1036,7 +1036,7 @@
     "fullNumber": "2142-6129",
     "floor": "8F",
     "user": "CHOPARD",
-    "department": "8층 매장",
+    "department": "8층 (럭셔리패션/워치주얼리/패션)",
     "status": "사용중"
   },
   {
@@ -1052,7 +1052,7 @@
     "fullNumber": "2142-6131",
     "floor": "8F",
     "user": "주대복",
-    "department": "8층 매장",
+    "department": "8층 (럭셔리패션/워치주얼리/패션)",
     "status": "사용중"
   },
   {
@@ -1068,7 +1068,7 @@
     "fullNumber": "2142-6133",
     "floor": "8F",
     "user": "태그호이어, 브라이틀링",
-    "department": "8층 매장",
+    "department": "8층 (럭셔리패션/워치주얼리/패션)",
     "status": "사용중"
   },
   {
@@ -1188,7 +1188,7 @@
     "fullNumber": "2142-6148",
     "floor": "8F",
     "user": "발렌시아가",
-    "department": "8층 매장",
+    "department": "8층 (럭셔리패션/워치주얼리/패션)",
     "status": "사용중"
   },
   {
@@ -1202,7 +1202,7 @@
   {
     "number": "6150",
     "fullNumber": "2142-6150",
-    "floor": "8F",
+    "floor": "9F",
     "user": "정산실",
     "department": "재경",
     "status": "사용중"
@@ -1210,7 +1210,7 @@
   {
     "number": "6151",
     "fullNumber": "2142-6151",
-    "floor": "8F",
+    "floor": "9F",
     "user": "정산실",
     "department": "재경",
     "status": "사용중"
@@ -1218,7 +1218,7 @@
   {
     "number": "6152",
     "fullNumber": "2142-6152",
-    "floor": "8F",
+    "floor": "9F",
     "user": "정산실",
     "department": "재경",
     "status": "사용중"
@@ -1266,7 +1266,7 @@
   {
     "number": "6158",
     "fullNumber": "2142-6158",
-    "floor": "8F",
+    "floor": "9F",
     "user": "정산실 FAX",
     "department": "재경",
     "status": "사용중"
@@ -1370,9 +1370,9 @@
   {
     "number": "6171",
     "fullNumber": "2142-6171",
-    "floor": "8F",
+    "floor": "9F",
     "user": "킬리안",
-    "department": "9층 매장",
+    "department": "9층 (수입화장품)",
     "status": "사용중"
   },
   {
@@ -1394,57 +1394,57 @@
   {
     "number": "6174",
     "fullNumber": "2142-6174",
-    "floor": "8F",
+    "floor": "9F",
     "user": "랑콤",
-    "department": "9층 매장",
+    "department": "9층 (수입화장품)",
     "status": "사용중"
   },
   {
     "number": "6175",
     "fullNumber": "2142-6175",
-    "floor": "8F",
+    "floor": "9F",
     "user": "키엘",
-    "department": "9층 매장",
+    "department": "9층 (수입화장품)",
     "status": "사용중"
   },
   {
     "number": "6176",
     "fullNumber": "2142-6176",
-    "floor": "8F",
+    "floor": "9F",
     "user": "입생로랑",
-    "department": "9층 매장",
+    "department": "9층 (수입화장품)",
     "status": "사용중"
   },
   {
     "number": "6177",
     "fullNumber": "2142-6177",
-    "floor": "8F",
+    "floor": "9F",
     "user": "알마니 화장품",
-    "department": "9층 매장",
+    "department": "9층 (수입화장품)",
     "status": "사용중"
   },
   {
     "number": "6178",
     "fullNumber": "2142-6178",
-    "floor": "8F",
+    "floor": "9F",
     "user": "슈에무라",
-    "department": "9층 매장",
+    "department": "9층 (수입화장품)",
     "status": "사용중"
   },
   {
     "number": "6179",
     "fullNumber": "2142-6179",
-    "floor": "8F",
+    "floor": "9F",
     "user": "라띠쟌 퍼퓨머",
-    "department": "9층 매장",
+    "department": "9층 (수입화장품)",
     "status": "사용중"
   },
   {
     "number": "6180",
     "fullNumber": "2142-6180",
-    "floor": "8F",
+    "floor": "9F",
     "user": "헬레나 루빈스타인",
-    "department": "9층 매장",
+    "department": "9층 (수입화장품)",
     "status": "사용중"
   },
   {
@@ -1458,169 +1458,169 @@
   {
     "number": "6182",
     "fullNumber": "2142-6182",
-    "floor": "8F",
+    "floor": "9F",
     "user": "라프레리",
-    "department": "9층 매장",
+    "department": "9층 (수입화장품)",
     "status": "사용중"
   },
   {
     "number": "6183",
     "fullNumber": "2142-6183",
-    "floor": "8F",
+    "floor": "9F",
     "user": "데코르테",
-    "department": "9층 매장",
+    "department": "9층 (수입화장품)",
     "status": "사용중"
   },
   {
     "number": "6184",
     "fullNumber": "2142-6184",
-    "floor": "8F",
+    "floor": "9F",
     "user": "메종 마르지엘라 p",
-    "department": "9층 매장",
+    "department": "9층 (수입화장품)",
     "status": "사용중"
   },
   {
     "number": "6185",
     "fullNumber": "2142-6185",
-    "floor": "8F",
+    "floor": "9F",
     "user": "세포랩",
-    "department": "",
+    "department": "9층 (국산화장품)",
     "status": "사용중"
   },
   {
     "number": "6186",
     "fullNumber": "2142-6186",
-    "floor": "-",
-    "user": "미사용",
-    "department": "",
-    "status": "미사용"
+    "floor": "8F",
+    "user": "캐나다구스",
+    "department": "8층 (럭셔리패션/워치주얼리/패션)",
+    "status": "사용중"
   },
   {
     "number": "6187",
     "fullNumber": "2142-6187",
-    "floor": "8F",
+    "floor": "9F",
     "user": "에스티로더",
-    "department": "9층 매장",
+    "department": "9층 (수입화장품)",
     "status": "사용중"
   },
   {
     "number": "6188",
     "fullNumber": "2142-6188",
-    "floor": "8F",
+    "floor": "9F",
     "user": "라메르",
-    "department": "9층 매장",
+    "department": "9층 (수입화장품)",
     "status": "사용중"
   },
   {
     "number": "6189",
     "fullNumber": "2142-6189",
-    "floor": "8F",
+    "floor": "9F",
     "user": "맥",
-    "department": "9층 매장",
+    "department": "9층 (수입화장품)",
     "status": "사용중"
   },
   {
     "number": "6190",
     "fullNumber": "2142-6190",
-    "floor": "8F",
+    "floor": "9F",
     "user": "조말론",
-    "department": "9층 매장",
+    "department": "9층 (수입화장품)",
     "status": "사용중"
   },
   {
     "number": "6191",
     "fullNumber": "2142-6191",
-    "floor": "8F",
+    "floor": "9F",
     "user": "바비브라운",
-    "department": "9층 매장",
+    "department": "9층 (수입화장품)",
     "status": "사용중"
   },
   {
     "number": "6192",
     "fullNumber": "2142-6192",
-    "floor": "8F",
-    "user": "아베다",
-    "department": "9층 매장",
+    "floor": "9F",
+    "user": "아베다, 랩시리즈",
+    "department": "9층 (수입화장품)",
     "status": "사용중"
   },
   {
     "number": "6193",
     "fullNumber": "2142-6193",
-    "floor": "8F",
+    "floor": "9F",
     "user": "크리니크",
-    "department": "9층 매장",
+    "department": "9층 (수입화장품)",
     "status": "사용중"
   },
   {
     "number": "6194",
     "fullNumber": "2142-6194",
-    "floor": "8F",
+    "floor": "9F",
     "user": "오리진스",
-    "department": "9층 매장",
+    "department": "9층 (수입화장품)",
     "status": "사용중"
   },
   {
     "number": "6195",
     "fullNumber": "2142-6195",
-    "floor": "8F",
+    "floor": "9F",
     "user": "톰포드",
-    "department": "9층 매장",
+    "department": "9층 (수입화장품)",
     "status": "사용중"
   },
   {
     "number": "6196",
     "fullNumber": "2142-6196",
-    "floor": "8F",
+    "floor": "9F",
     "user": "프레데릭말",
-    "department": "9층 매장",
+    "department": "9층 (수입화장품)",
     "status": "사용중"
   },
   {
     "number": "6197",
     "fullNumber": "2142-6197",
-    "floor": "8F",
+    "floor": "9F",
     "user": "비오템",
-    "department": "9층 매장",
+    "department": "9층 (수입화장품)",
     "status": "사용중"
   },
   {
     "number": "6198",
     "fullNumber": "2142-6198",
-    "floor": "8F",
-    "user": "향수\n(몽딸·만세라·에센셜 퍼퓸·본드 넘버 나인·이센트릭)",
-    "department": "",
+    "floor": "9F",
+    "user": "향수 (아무아쥬·몽딸·만세라·에센셜 퍼퓸·본드 넘버 나인·이센트릭)",
+    "department": "9층 (수입화장품)",
     "status": "사용중"
   },
   {
     "number": "6199",
     "fullNumber": "2142-6199",
-    "floor": "8F",
+    "floor": "9F",
     "user": "르라보",
-    "department": "9층 매장",
+    "department": "9층 (수입화장품)",
     "status": "사용중"
   },
   {
     "number": "6200",
     "fullNumber": "2142-6200",
-    "floor": "8F",
+    "floor": "9F",
     "user": "스킨랩 서울",
-    "department": "",
+    "department": "9층 (국산화장품)",
     "status": "사용중"
   },
   {
     "number": "6201",
     "fullNumber": "2142-6201",
-    "floor": "8F",
+    "floor": "9F",
     "user": "에르메스 뷰티/퍼퓸 (0576)",
-    "department": "9층 매장",
+    "department": "9층 (수입화장품)",
     "status": "사용중"
   },
   {
     "number": "6202",
     "fullNumber": "2142-6202",
-    "floor": "8F",
+    "floor": "9F",
     "user": "아토팜",
-    "department": "",
+    "department": "9층 (국산화장품)",
     "status": "사용중"
   },
   {
@@ -1634,9 +1634,9 @@
   {
     "number": "6204",
     "fullNumber": "2142-6204",
-    "floor": "8F",
+    "floor": "9F",
     "user": "펜할리곤스",
-    "department": "",
+    "department": "9층 (수입화장품)",
     "status": "사용중"
   },
   {
@@ -1658,49 +1658,49 @@
   {
     "number": "6207",
     "fullNumber": "2142-6207",
-    "floor": "8F",
+    "floor": "9F",
     "user": "가네보/루나솔 (0637)",
-    "department": "9층 매장",
+    "department": "9층 (수입화장품)",
     "status": "사용중"
   },
   {
     "number": "6208",
     "fullNumber": "2142-6208",
-    "floor": "8F",
+    "floor": "9F",
     "user": "지방시",
-    "department": "9층 매장",
+    "department": "9층 (수입화장품)",
     "status": "사용중"
   },
   {
     "number": "6209",
     "fullNumber": "2142-6209",
-    "floor": "8F",
+    "floor": "9F",
     "user": "클라랑스",
-    "department": "9층 매장",
+    "department": "9층 (수입화장품)",
     "status": "사용중"
   },
   {
     "number": "6210",
     "fullNumber": "2142-6210",
-    "floor": "8F",
+    "floor": "9F",
     "user": "겔랑",
-    "department": "9층 매장",
+    "department": "9층 (수입화장품)",
     "status": "사용중"
   },
   {
     "number": "6211",
     "fullNumber": "2142-6211",
-    "floor": "8F",
+    "floor": "9F",
     "user": "록시땅",
-    "department": "9층 매장",
+    "department": "9층 (수입화장품)",
     "status": "사용중"
   },
   {
     "number": "6212",
     "fullNumber": "2142-6212",
-    "floor": "8F",
+    "floor": "9F",
     "user": "베네피트",
-    "department": "9층 매장",
+    "department": "9층 (수입화장품)",
     "status": "사용중"
   },
   {
@@ -1730,41 +1730,41 @@
   {
     "number": "6216",
     "fullNumber": "2142-6216",
-    "floor": "8F",
+    "floor": "9F",
     "user": "시세이도",
-    "department": "9층 매장",
+    "department": "9층 (수입화장품)",
     "status": "사용중"
   },
   {
     "number": "6217",
     "fullNumber": "2142-6217",
-    "floor": "8F",
-    "user": "리퀴드 퍼퓸바",
-    "department": "9층 매장",
+    "floor": "9F",
+    "user": "하바",
+    "department": "9층 (수입화장품)",
     "status": "사용중"
   },
   {
     "number": "6218",
     "fullNumber": "2142-6218",
-    "floor": "8F",
+    "floor": "9F",
     "user": "바이레도",
-    "department": "9층 매장",
+    "department": "9층 (수입화장품)",
     "status": "사용중"
   },
   {
     "number": "6219",
     "fullNumber": "2142-6219",
-    "floor": "8F",
+    "floor": "9F",
     "user": "후",
-    "department": "",
+    "department": "9층 (국산화장품)",
     "status": "사용중"
   },
   {
     "number": "6220",
     "fullNumber": "2142-6220",
-    "floor": "8F",
+    "floor": "9F",
     "user": "설화수",
-    "department": "",
+    "department": "9층 (국산화장품)",
     "status": "사용중"
   },
   {
@@ -1778,57 +1778,57 @@
   {
     "number": "6222",
     "fullNumber": "2142-6222",
-    "floor": "8F",
+    "floor": "9F",
     "user": "라네즈",
-    "department": "",
+    "department": "9층 (국산화장품)",
     "status": "사용중"
   },
   {
     "number": "6223",
     "fullNumber": "2142-6223",
-    "floor": "8F",
+    "floor": "9F",
     "user": "헤라",
-    "department": "",
+    "department": "9층 (국산화장품)",
     "status": "사용중"
   },
   {
     "number": "6224",
     "fullNumber": "2142-6224",
-    "floor": "8F",
+    "floor": "9F",
     "user": "프리메라",
-    "department": "",
+    "department": "9층 (국산화장품)",
     "status": "사용중"
   },
   {
     "number": "6225",
     "fullNumber": "2142-6225",
-    "floor": "8F",
+    "floor": "9F",
     "user": "딥디크",
-    "department": "9층 매장",
+    "department": "9층 (수입화장품)",
     "status": "사용중"
   },
   {
     "number": "6226",
     "fullNumber": "2142-6226",
-    "floor": "8F",
+    "floor": "9F",
     "user": "오휘",
-    "department": "",
+    "department": "9층 (국산화장품)",
     "status": "사용중"
   },
   {
     "number": "6227",
     "fullNumber": "2142-6227",
-    "floor": "8F",
+    "floor": "9F",
     "user": "빌리프",
-    "department": "",
+    "department": "9층 (국산화장품)",
     "status": "사용중"
   },
   {
     "number": "6228",
     "fullNumber": "2142-6228",
-    "floor": "8F",
+    "floor": "9F",
     "user": "로라 메르시에",
-    "department": "",
+    "department": "9층 (수입화장품)",
     "status": "사용중"
   },
   {
@@ -1866,17 +1866,17 @@
   {
     "number": "6233",
     "fullNumber": "2142-6233",
-    "floor": "8F",
+    "floor": "9F",
     "user": "시슬리",
-    "department": "9층 매장",
+    "department": "9층 (수입화장품)",
     "status": "사용중"
   },
   {
     "number": "6234",
     "fullNumber": "2142-6234",
-    "floor": "8F",
+    "floor": "9F",
     "user": "정샘물",
-    "department": "",
+    "department": "9층 (국산화장품)",
     "status": "사용중"
   },
   {
@@ -2058,9 +2058,9 @@
   {
     "number": "6257",
     "fullNumber": "2142-6257",
-    "floor": "8F",
+    "floor": "9F",
     "user": "차앤박·네이처컬렉션·더페이스샵",
-    "department": "",
+    "department": "9층 (국산화장품)",
     "status": "사용중"
   },
   {
@@ -2090,9 +2090,9 @@
   {
     "number": "6261",
     "fullNumber": "2142-6261",
-    "floor": "8F",
+    "floor": "9F",
     "user": "브이티",
-    "department": "",
+    "department": "9층 (국산화장품)",
     "status": "사용중"
   },
   {
@@ -2106,9 +2106,9 @@
   {
     "number": "6263",
     "fullNumber": "2142-6263",
-    "floor": "8F",
+    "floor": "9F",
     "user": "동인비",
-    "department": "",
+    "department": "9층 (국산화장품)",
     "status": "사용중"
   },
   {
@@ -2162,9 +2162,9 @@
   {
     "number": "6270",
     "fullNumber": "2142-6270",
-    "floor": "8F",
-    "user": "브링그린라운드어라운드바이오힐보컬러그램웨이크메이크아이디얼포맨필리밀리케어플러스",
-    "department": "",
+    "floor": "9F",
+    "user": "올리브영(브링그린,라운드어라운드,바이오힐보,컬러그램,웨이크메이크,아이디얼포맨,필리밀리,케어플러스",
+    "department": "9층 (국산화장품)",
     "status": "사용중"
   },
   {
@@ -2202,9 +2202,9 @@
   {
     "number": "6275",
     "fullNumber": "2142-6275",
-    "floor": "8F",
+    "floor": "9F",
     "user": "웰라쥬",
-    "department": "",
+    "department": "9층 (국산화장품)",
     "status": "사용중"
   },
   {
@@ -2226,17 +2226,17 @@
   {
     "number": "6278",
     "fullNumber": "2142-6278",
-    "floor": "8F",
+    "floor": "9F",
     "user": "스와로브스키",
-    "department": "",
+    "department": "9층 (패션잡화·식품·주류담배·전자)",
     "status": "사용중"
   },
   {
     "number": "6279",
     "fullNumber": "2142-6279",
-    "floor": "8F",
+    "floor": "9F",
     "user": "바닐라코",
-    "department": "",
+    "department": "9층 (국산화장품)",
     "status": "사용중"
   },
   {
@@ -2258,17 +2258,17 @@
   {
     "number": "6282",
     "fullNumber": "2142-6282",
-    "floor": "8F",
+    "floor": "9F",
     "user": "더마퓨어클리닉블리블리끌레드벨피에스아이케이멀티 반티룩스루벨리에이바자르아로마용리솔츠웰라쥬바이리즌",
-    "department": "",
+    "department": "9층 (국산화장품)",
     "status": "사용중"
   },
   {
     "number": "6283",
     "fullNumber": "2142-6283",
-    "floor": "8F",
+    "floor": "9F",
     "user": "리쥬란",
-    "department": "",
+    "department": "9층 (국산화장품)",
     "status": "사용중"
   },
   {
@@ -2284,31 +2284,31 @@
     "fullNumber": "2142-6285",
     "floor": "8F",
     "user": "엠씨엠",
-    "department": "8층 매장",
+    "department": "8층 (럭셔리패션/워치주얼리/패션)",
     "status": "사용중"
   },
   {
     "number": "6286",
     "fullNumber": "2142-6286",
-    "floor": "8F",
+    "floor": "9F",
     "user": "케이멀티 에이치제이, 아로셀, 매드포코스, 울트라브이, 더라퓨즈, 데이지크, 바이애콤, 하루하루,원더, 애프터블로우, 케이멀티,남유에프엔씨",
-    "department": "",
+    "department": "9층 (국산화장품)",
     "status": "사용중"
   },
   {
     "number": "6287",
     "fullNumber": "2142-6287",
-    "floor": "8F",
-    "user": "메디힐\n·케이멀티 유니앤코, 수다이, 펠드아포테케, 케이멀티 유니앤코",
-    "department": "",
+    "floor": "9F",
+    "user": "메디힐·케이멀티 유니앤코, 수다이, 펠드아포테케, 케이멀티 유니앤코",
+    "department": "9층 (국산화장품)",
     "status": "사용중"
   },
   {
     "number": "6288",
     "fullNumber": "2142-6288",
-    "floor": "8F",
+    "floor": "B2F",
     "user": "시설",
-    "department": "도급",
+    "department": "캡스텍",
     "status": "사용중"
   },
   {
@@ -2355,24 +2355,24 @@
     "number": "6294",
     "fullNumber": "2142-6294",
     "floor": "8F",
-    "user": "케어링",
-    "department": "",
+    "user": "케어링 아이웨어 (구찌·생로랑·발렌시아가·몽블랑·보테가베네타·알렉산더맥퀸·까르띠에·푸마·끌로에·마우이짐)",
+    "department": "8층 (럭셔리패션/워치주얼리/패션)",
     "status": "사용중"
   },
   {
     "number": "6295",
     "fullNumber": "2142-6295",
-    "floor": "8F",
-    "user": "선글라스3 - 시원아이웨어\n(BYWP·포나인즈·실루엣·\n질스튜어트·시원·제냐)",
-    "department": "",
+    "floor": "9F",
+    "user": "선글라스2 - 룩옵틱스(페라가모·에드하디·필라·셀린·디올·펜디·산드로·나이키·폴스미스)",
+    "department": "9층 (패션잡화·식품·주류담배·전자)",
     "status": "사용중"
   },
   {
     "number": "6296",
     "fullNumber": "2142-6296",
-    "floor": "8F",
-    "user": "선글라스1 - 룩쏘티카\n(레이벤·오클리·프라다\n·미우미우·버버리)",
-    "department": "",
+    "floor": "9F",
+    "user": "선글라스3 - 시원아이웨어\n(BYWP·포나인즈·실루엣·\n질스튜어트·시원·제냐)",
+    "department": "9층 (패션잡화·식품·주류담배·전자)",
     "status": "사용중"
   },
   {
@@ -2386,17 +2386,17 @@
   {
     "number": "6298",
     "fullNumber": "2142-6298",
-    "floor": "8F",
+    "floor": "9F",
     "user": "케라스타즈",
-    "department": "9층 매장",
+    "department": "9층 (수입화장품)",
     "status": "사용중"
   },
   {
     "number": "6299",
     "fullNumber": "2142-6299",
-    "floor": "8F",
+    "floor": "9F",
     "user": "엘에이치앤디(국산), SWISSE 外(수입)",
-    "department": "",
+    "department": "9층 (패션잡화·식품·주류담배·전자)",
     "status": "사용중"
   },
   {
@@ -2410,17 +2410,17 @@
   {
     "number": "6301",
     "fullNumber": "2142-6301",
-    "floor": "8F",
+    "floor": "9F",
     "user": "정관장",
-    "department": "",
+    "department": "9층 (패션잡화·식품·주류담배·전자)",
     "status": "사용중"
   },
   {
     "number": "6302",
     "fullNumber": "2142-6302",
     "floor": "9F",
-    "user": "식품 & 수비니어\n코롬방, 피닉스진생, 오스떼\n드럭스토어, 다나누리(식품/제과)\n허니버터아몬드",
-    "department": "9층 매장",
+    "user": "식품 & 수비니어(코롬방, 피닉스진생, 오스떼드럭스토어, 다나누리,허니버터아몬드)",
+    "department": "9층 (패션잡화·식품·주류담배·전자)",
     "status": "사용중"
   },
   {
@@ -2434,17 +2434,17 @@
   {
     "number": "6304",
     "fullNumber": "2142-6304",
-    "floor": "8F",
+    "floor": "9F",
     "user": "ECCO",
-    "department": "",
+    "department": "9층 (패션)",
     "status": "사용중"
   },
   {
     "number": "6305",
     "fullNumber": "2142-6305",
-    "floor": "8F",
-    "user": "모로칸오일",
-    "department": "",
+    "floor": "9F",
+    "user": "로아리브",
+    "department": "9층 (수입화장품)",
     "status": "사용중"
   },
   {
@@ -2458,15 +2458,15 @@
   {
     "number": "6307",
     "fullNumber": "2142-6307",
-    "floor": "8F",
+    "floor": "9F",
     "user": "SK-II",
-    "department": "",
+    "department": "9층 (수입화장품)",
     "status": "사용중"
   },
   {
     "number": "6308",
     "fullNumber": "2142-6308",
-    "floor": "8F",
+    "floor": "9F",
     "user": "라프레리",
     "department": "9층 스파룸",
     "status": "사용중"
@@ -2514,9 +2514,9 @@
   {
     "number": "6314",
     "fullNumber": "2142-6314",
-    "floor": "8F",
+    "floor": "9F",
     "user": "아워글라스",
-    "department": "",
+    "department": "9층 (수입화장품)",
     "status": "사용중"
   },
   {
@@ -2538,25 +2538,25 @@
   {
     "number": "6317",
     "fullNumber": "2142-6317",
-    "floor": "8F",
+    "floor": "9F",
     "user": "아쿠아 디 파르마",
-    "department": "",
+    "department": "9층 (수입화장품)",
     "status": "사용중"
   },
   {
     "number": "6318",
     "fullNumber": "2142-6318",
-    "floor": "8F",
-    "user": "오에라",
-    "department": "",
+    "floor": "9F",
+    "user": "코스메플레이스",
+    "department": "9층 (국산화장품)",
     "status": "사용중"
   },
   {
     "number": "6319",
     "fullNumber": "2142-6319",
-    "floor": "8F",
-    "user": "몽클레르, 반클리프 퍼퓸",
-    "department": "",
+    "floor": "9F",
+    "user": "몽클레르 퍼퓸, 반클리프 아펠",
+    "department": "9층 (수입화장품)",
     "status": "사용중"
   },
   {
@@ -2578,9 +2578,9 @@
   {
     "number": "6322",
     "fullNumber": "2142-6322",
-    "floor": "8F",
+    "floor": "9F",
     "user": "프라다 퍼퓸",
-    "department": "9층 매장",
+    "department": "9층 (수입화장품)",
     "status": "사용중"
   },
   {
@@ -2626,9 +2626,9 @@
   {
     "number": "6328",
     "fullNumber": "2142-6328",
-    "floor": "8F",
+    "floor": "9F",
     "user": "제이엠솔루션트와터치케이멀티 지피클럽",
-    "department": "",
+    "department": "9층 (국산화장품)",
     "status": "사용중"
   },
   {
@@ -2658,9 +2658,9 @@
   {
     "number": "6332",
     "fullNumber": "2142-6332",
-    "floor": "8F",
+    "floor": "9F",
     "user": "스킨푸드",
-    "department": "",
+    "department": "9층 (국산화장품)",
     "status": "사용중"
   },
   {
@@ -2674,9 +2674,9 @@
   {
     "number": "6334",
     "fullNumber": "2142-6334",
-    "floor": "8F",
+    "floor": "9F",
     "user": "마리떼프랑소와저버",
-    "department": "",
+    "department": "9층 (패션)",
     "status": "사용중"
   },
   {
@@ -2690,33 +2690,33 @@
   {
     "number": "6336",
     "fullNumber": "2142-6336",
-    "floor": "8F",
+    "floor": "9F",
     "user": "디스커버리",
-    "department": "",
+    "department": "9층 (패션)",
     "status": "사용중"
   },
   {
     "number": "6337",
     "fullNumber": "2142-6337",
-    "floor": "8F",
+    "floor": "9F",
     "user": "노스페이스",
-    "department": "",
+    "department": "9층 (패션)",
     "status": "사용중"
   },
   {
     "number": "6338",
     "fullNumber": "2142-6338",
-    "floor": "8F",
+    "floor": "9F",
     "user": "폴라",
-    "department": "",
+    "department": "9층 (수입화장품)",
     "status": "사용중"
   },
   {
     "number": "6339",
     "fullNumber": "2142-6339",
-    "floor": "8F",
-    "user": "CALVIN KLEIN(K)",
-    "department": "",
+    "floor": "9F",
+    "user": "CALVIN KLEIN[K]",
+    "department": "9층 (패션)",
     "status": "사용중"
   },
   {
@@ -2738,49 +2738,49 @@
   {
     "number": "6342",
     "fullNumber": "2142-6342",
-    "floor": "8F",
-    "user": "에비수",
-    "department": "",
+    "floor": "9F",
+    "user": "전자(필립스·보스·에프터샥즈·뱅앤올룹슨·인스타360·삼성·엘지·쿠쿠·고프로)",
+    "department": "9층 (패션잡화·식품·주류담배·전자)",
     "status": "사용중"
   },
   {
     "number": "6343",
     "fullNumber": "2142-6343",
-    "floor": "8F",
-    "user": "전자(필립스·보스·에프터샥즈·뱅앤올룹슨·인스타360·삼성·엘지·쿠쿠·고프로)",
-    "department": "",
+    "floor": "9F",
+    "user": "에비수",
+    "department": "9층 (패션)",
     "status": "사용중"
   },
   {
     "number": "6344",
     "fullNumber": "2142-6344",
-    "floor": "8F",
+    "floor": "9F",
     "user": "내셔널지오그래픽",
-    "department": "",
+    "department": "9층 (패션)",
     "status": "사용중"
   },
   {
     "number": "6345",
     "fullNumber": "2142-6345",
-    "floor": "8F",
+    "floor": "9F",
     "user": "라코스테",
-    "department": "",
+    "department": "9층 (패션)",
     "status": "사용중"
   },
   {
     "number": "6346",
     "fullNumber": "2142-6346",
-    "floor": "8F",
-    "user": "커버낫",
-    "department": "",
+    "floor": "9F",
+    "user": "선글라스1 - 룩쏘티카 (레이벤·오클리·프라다·미우미우·버버리)",
+    "department": "9층 (패션잡화·식품·주류담배·전자)",
     "status": "사용중"
   },
   {
     "number": "6347",
     "fullNumber": "2142-6347",
-    "floor": "8F",
-    "user": "럭키클로버",
-    "department": "",
+    "floor": "9F",
+    "user": "에이치에스에프",
+    "department": "9층 (패션)",
     "status": "사용중"
   },
   {
@@ -2844,7 +2844,7 @@
     "fullNumber": "2142-6355",
     "floor": "8F",
     "user": "이다영 사원",
-    "department": "2파트(서무)",
+    "department": "영업2파트",
     "status": "사용중"
   },
   {
@@ -2972,7 +2972,7 @@
     "fullNumber": "2142-6371",
     "floor": "8F",
     "user": "이승민 대리",
-    "department": "2파트(영업)",
+    "department": "영업2파트",
     "status": "사용중"
   },
   {
@@ -3044,7 +3044,7 @@
     "fullNumber": "2142-6380",
     "floor": "8F",
     "user": "한지훈 과장",
-    "department": "1파트(기획)",
+    "department": "영업1파트",
     "status": "사용중"
   },
   {
@@ -3076,7 +3076,7 @@
     "fullNumber": "2142-6384",
     "floor": "8F",
     "user": "임지선 대리",
-    "department": "1파트(기획)",
+    "department": "영업1파트",
     "status": "사용중"
   },
   {
@@ -3132,7 +3132,7 @@
     "fullNumber": "2142-6391",
     "floor": "8F",
     "user": "조준기 차장",
-    "department": "1파트(파트장)",
+    "department": "영업1파트",
     "status": "사용중"
   },
   {
@@ -3148,7 +3148,7 @@
     "fullNumber": "2142-6393",
     "floor": "8F",
     "user": "이슬 사원",
-    "department": "2파트(ERP)",
+    "department": "영업2파트",
     "status": "사용중"
   },
   {
@@ -3388,7 +3388,7 @@
     "fullNumber": "2142-6423",
     "floor": "9F",
     "user": "라이프워크",
-    "department": "",
+    "department": "9층 (패션)",
     "status": "사용중"
   },
   {
@@ -3404,7 +3404,7 @@
     "fullNumber": "2142-6425",
     "floor": "9F",
     "user": "육심원",
-    "department": "",
+    "department": "9층 (패션)",
     "status": "사용중"
   },
   {
@@ -3420,31 +3420,31 @@
     "fullNumber": "2142-6427",
     "floor": "9F",
     "user": "엠엘비",
-    "department": "8층 매장",
+    "department": "8층 (럭셔리패션/워치주얼리/패션)",
     "status": "사용중"
   },
   {
     "number": "6428",
     "fullNumber": "2142-6428",
     "floor": "9F",
-    "user": "식품 & 수비니어\n코롬방, 피닉스진생, 오스떼\n드럭스토어, 다나누리(식품/제과)\n허니버터아몬드",
-    "department": "9층 매장",
+    "user": "식품 & 수비니어(코롬방, 피닉스진생, 오스떼드럭스토어, 다나누리,허니버터아몬드)",
+    "department": "9층 (패션잡화·식품·주류담배·전자)",
     "status": "사용중"
   },
   {
     "number": "6429",
     "fullNumber": "2142-6429",
     "floor": "9F",
-    "user": "휠라",
-    "department": "",
+    "user": "로이드",
+    "department": "9층 (패션)",
     "status": "사용중"
   },
   {
     "number": "6430",
     "fullNumber": "2142-6430",
     "floor": "9F",
-    "user": "KT&G담배\n( IQOS· ·중국담배)",
-    "department": "",
+    "user": "KT&G",
+    "department": "9층 (패션잡화·식품·주류담배·전자)",
     "status": "사용중"
   },
   {
@@ -3452,7 +3452,7 @@
     "fullNumber": "2142-6431",
     "floor": "9F",
     "user": "주류\n(헤네시·글렌피딕·까뮤·레미마틴·마텔·발렌타인·로얄살루트·시바스리갈·조니워커, 유림전통주, 문배술)",
-    "department": "",
+    "department": "9층 (패션잡화·식품·주류담배·전자)",
     "status": "사용중"
   },
   {
@@ -3476,15 +3476,15 @@
     "fullNumber": "2142-6434",
     "floor": "9F",
     "user": "후아유",
-    "department": "",
+    "department": "9층 (패션)",
     "status": "사용중"
   },
   {
     "number": "6435",
     "fullNumber": "2142-6435",
     "floor": "9F",
-    "user": "담배",
-    "department": "",
+    "user": "수입담배\n( IQOS· ·중국담배· JTI· BAT)",
+    "department": "9층 (패션잡화·식품·주류담배·전자)",
     "status": "사용중"
   },
   {
@@ -3556,7 +3556,7 @@
     "fullNumber": "2142-6444",
     "floor": "9F",
     "user": "스나이델",
-    "department": "9층 매장",
+    "department": "9층 (수입화장품)",
     "status": "사용중"
   },
   {
@@ -3588,7 +3588,7 @@
     "fullNumber": "2142-6448",
     "floor": "9F",
     "user": "아크메드라비",
-    "department": "8층 매장",
+    "department": "8층 (럭셔리패션/워치주얼리/패션)",
     "status": "사용중"
   },
   {
@@ -3819,7 +3819,7 @@
     "number": "6477",
     "fullNumber": "2142-6477",
     "floor": "-",
-    "user": "수입·통관",
+    "user": "수입 / 통관",
     "department": "SCM(통물)",
     "status": "사용중"
   },
@@ -3827,7 +3827,7 @@
     "number": "6478",
     "fullNumber": "2142-6478",
     "floor": "-",
-    "user": "전시 피킹·패킹",
+    "user": "전시 (피킹 / 패킹)",
     "department": "SCM(통물)",
     "status": "사용중"
   },
@@ -3859,7 +3859,7 @@
     "number": "6482",
     "fullNumber": "2142-6482",
     "floor": "-",
-    "user": "전시 전산",
+    "user": "전시(전산)",
     "department": "SCM(통물)",
     "status": "사용중"
   },
