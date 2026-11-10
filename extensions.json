@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "number": "6000",
     "fullNumber": "2142-6000",
@@ -188,7 +188,7 @@
     "fullNumber": "2142-6023",
     "floor": "B2",
     "user": "전산실",
-    "department": "해인",
+    "department": "",
     "status": "사용중"
   },
   {
@@ -196,7 +196,7 @@
     "fullNumber": "2142-6024",
     "floor": "B2",
     "user": "전산실",
-    "department": "해인",
+    "department": "",
     "status": "사용중"
   },
   {
@@ -204,7 +204,7 @@
     "fullNumber": "2142-6025",
     "floor": "B2",
     "user": "전산실",
-    "department": "해인",
+    "department": "",
     "status": "사용중"
   },
   {
@@ -244,7 +244,7 @@
     "fullNumber": "2142-6030",
     "floor": "B2F",
     "user": "촬영실",
-    "department": "웨이브",
+    "department": "",
     "status": "사용중"
   },
   {
@@ -419,7 +419,7 @@
     "number": "6052",
     "fullNumber": "2142-6052",
     "floor": "8F",
-    "user": "빈자리",
+    "user": "공석",
     "department": "영업1파트",
     "status": "사용중"
   },
@@ -507,7 +507,7 @@
     "number": "6063",
     "fullNumber": "2142-6063",
     "floor": "8F",
-    "user": "서가윤 대리(휴직)",
+    "user": "임지선 대리",
     "department": "영업1파트",
     "status": "사용중"
   },
@@ -900,7 +900,7 @@
     "fullNumber": "2142-6112",
     "floor": "B2F",
     "user": "면세 보안실(안전실)",
-    "department": "캡스텍",
+    "department": "",
     "status": "사용중"
   },
   {
@@ -1659,7 +1659,7 @@
     "number": "6207",
     "fullNumber": "2142-6207",
     "floor": "9F",
-    "user": "가네보/루나솔 (0637)",
+    "user": "가네보/루나솔",
     "department": "9층 (수입화장품)",
     "status": "사용중"
   },
@@ -2307,8 +2307,8 @@
     "number": "6288",
     "fullNumber": "2142-6288",
     "floor": "B2F",
-    "user": "시설",
-    "department": "캡스텍",
+    "user": "면세 시설",
+    "department": "",
     "status": "사용중"
   },
   {
@@ -3075,7 +3075,7 @@
     "number": "6384",
     "fullNumber": "2142-6384",
     "floor": "8F",
-    "user": "임지선 대리",
+    "user": "공석",
     "department": "영업1파트",
     "status": "사용중"
   },
